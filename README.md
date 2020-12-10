@@ -1,5 +1,8 @@
 # Russian-Language-Studying
 
+Notice
+
+Don't pull any bad request!
 
 俄语单词表
 
