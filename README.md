@@ -30,5 +30,5 @@ Name EndTime DocumentName
 
 - [ ] Ranying 2020-12-17 Math Занятие 8
 - [ ] Ranying 2020-12-13 Math Занятие 6 7
-- [ ] Benlala 2020-12-14 Chemistry Гидроксиды
+- [x] Benlala 2020-12-14 Chemistry Гидроксиды
 - [x] Ranying 2020-12-11 Physics Динамика материальной точки. Силы в механике
