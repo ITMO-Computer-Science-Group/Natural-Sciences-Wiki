@@ -6,8 +6,8 @@
 ### Notice
 
 建议阅读以下资料：
-- [形动词](../Russian-Language-Grammar/Grammar-for-Russian.md#形动词)
-- [前置词](../Russian-Language-Grammar/Grammar-for-Russian.md#前置词)
+- [形动词](../Russian%20Language%20Grammar/Grammar%20for%20Russian.md#形动词)
+- [前置词](../Russian%20Language%20Grammar/Grammar%20for%20Russian.md#前置词语法)
 
 ### Word
 | русский                                    | 中文 |
