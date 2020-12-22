@@ -54,7 +54,20 @@ Content
 
 2. 关于 `Expression` 部分
   - 此部分用于记录俄文的中文表达，抑或称之为用普通高中课程标准解释的俄罗斯地域的解题格式，请参考[语言本地化 -Wikipedia](https://zh.wikipedia.org/zh-hans/%E8%AF%AD%E8%A8%80%E6%9C%AC%E5%9C%B0%E5%8C%96)和[翻译和产品本地化的区别是什么？](https://sspai.com/post/59945)
-  - 推荐的完成范例是[俄文中的分数与小数在俄文中的表达](Math%20in%20Russian/Занятие-4-5-分数与小数.md#Expression)
+  - 推荐的完成范例是[俄文中的分数与小数在俄文中的表达](Math/Занятие-4-5-分数与小数.md#Expression)
+
+### TO-Remember List
+
+**before 2020-12-27**
+
+- [ ] [кинематика](Physics/кинематика.md)
+- [ ] [оксид](Chemistry/оксид.md)
+
+**Other**
+
+- [ ] [кинематика special words](Physics/кинематика%20special%20words.md)
+- [ ] [Законы сохранения в механике](Physics/Законы%20сохранения%20в%20механике.md)
+- [ ] [гидроксид](Chemistry/гидроксид.md)
 
 ### To-do List
 
