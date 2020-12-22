@@ -49,7 +49,7 @@ Content
 
 2. 关于 `Expression` 部分
   - 此部分用于记录俄文的中文表达，抑或称之为用普通高中课程标准解释的俄罗斯地域的解题格式，请参考[语言本地化 -Wikipedia](https://zh.wikipedia.org/zh-hans/%E8%AF%AD%E8%A8%80%E6%9C%AC%E5%9C%B0%E5%8C%96)和[翻译和产品本地化的区别是什么？](https://sspai.com/post/59945)
-  - 推荐的完成范例是[俄文中的分数与小数在俄文中的表达](math%20in%20russian/Занятие-4-5-分数与小数.md#Expression)
+  - 推荐的完成范例是[俄文中的分数与小数在俄文中的表达](Math%20in%20Russian/Занятие-4-5-分数与小数.md#Expression)
 
 ### To-do List
 
