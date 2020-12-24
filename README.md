@@ -77,6 +77,8 @@ Name EndTime DocumentName
 -->
 
 - [ ] TO-DO   2020-12-22 Chemistry сборник задач1
+- [ ] Benlala 2020-12-27 Physics З.сохр._1 (задачи) -> Законы сохранения в механике.md 
+- [ ] Ranying 2020-12-27 Physics законы сохранения_задачи -> Законы сохранения в механике.md
 - [ ] Benlala 2020-12-22 Chemistry Основания
 - [x] Ranying 2020-12-22 Physics законы сохранения
 - [x] Ranying 2020-12-20 Physics Кинематика 2 задача
