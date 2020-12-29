@@ -15,18 +15,19 @@
     https.onreadystatechange = () => {
         if (https.readyState == 4 && https.status == 200) {
             word = JSON.parse(https.responseText);
-            HTML = `<table>`;
+            HTML = `Hello, it's your ${word["day"]+1} day remembering words!`
+            HTML += `<table>`;
             HTML += `<tr><td>index</td><td>русский</td><td>中文</td></tr>`;
             for (let i in word){
                 HTML += `<tr><td>${index++}</td><td>${word[i][0]}</td><td>${word[i][1]}</td></tr>`;
             }
             HTML += `</table>`
-            document.write(HTML);
+            document.getElementById("word").innerHTML+=HTML;
         }
     }
     </script>
 </head>
 <body>
-    
+    <div id="word"></div>
 </body>
 </html>

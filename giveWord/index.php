@@ -12,13 +12,12 @@
     }
     fclose($wordlist);
     //一天有86400s，+1s！
-    //1609286400 2020-12-30
-    //1609113600 2020-12-28
     $unixTime = time();
-    $day = (($unixTime-1609113600)-($unixTime-1609113600)%86400)/86400;
+    $unixStart = 1609286400;  //2020-12-30
+    $day = (($unixTime-$unixStart)-($unixTime-$unixStart)%86400)/86400;
     //echo $day;
-    $day = 5;
     $nowWords = array();
+    $nowWords["day"] = $day;
     if($day*15-45>=0){
         for($i=$day*15-45;$i<$day*15-40;$i++){
             $nowWords[$i] = $wordArray[$i];
