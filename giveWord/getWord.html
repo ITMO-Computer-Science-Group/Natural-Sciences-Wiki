@@ -6,10 +6,15 @@
     <title>Document</title>
     <script>
     var word = new Array();
+    var wordList = new Array();
     var https = new XMLHttpRequest();
     var url = `index.php`;
     var HTML = "API检索中！";
     var index = 0;
+    var nowNum = 0;
+    var min = 0;
+    var max = 0;
+    var rucn = 0
     https.open("GET", url);
     https.send();
     https.onreadystatechange = () => {
@@ -19,15 +24,40 @@
             HTML += `<table>`;
             HTML += `<tr><td>index</td><td>русский</td><td>中文</td></tr>`;
             for (let i in word){
-                HTML += `<tr><td>${index++}</td><td>${word[i][0]}</td><td>${word[i][1]}</td></tr>`;
+                if(i>=0){
+                    HTML += `<tr><td>${index}</td><td>${word[i][0]}</td><td>${word[i][1]}</td></tr>`;
+                    wordList[index++]=new Array(word[i][0],word[i][1]);
+                }
             }
             HTML += `</table>`
             document.getElementById("word").innerHTML+=HTML;
+            max = wordList.length-1;
         }
+    }
+    isWord = true;
+    function Mode(element){
+        element.innerHTML = isWord?"抽查模式":"单词模式";
+        document.getElementById("word").style.display=isWord?"none":"block";
+        document.getElementById("check").style.display=isWord?"block":"none";
+        isWord = !isWord;
+    }
+    function newWord(element){
+        nowNum = Math.floor(Math.random()*(max-min+1)+min);
+        element.innerHTML=wordList[nowNum][rucn];
+    }
+    function change(element){
+        rucn = rucn == 0?1:0;
+        element.innerHTML= rucn == 1?"cn":"ru";
+        document.getElementById("newWord").innerHTML=wordList[nowNum][rucn];
     }
     </script>
 </head>
 <body>
-    <div id="word"></div>
+    <button onclick="Mode(this)">单词模式</button>
+    <div id="word" style="display: block;"></div>
+    <div id="check" style="display: none;">
+        <button id="rucn" onclick="change(this)">ru</button>
+        <div id="newWord" style="cursor: pointer; font-size: 3em;" onclick="newWord(this)">开始</div>
+    </div>
 </body>
 </html>
