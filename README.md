@@ -7,8 +7,8 @@
 
 ### Notice
 
-Don't pull any bad request!
-
+Don't pull any bad request!  
+[背诵今日单词](https://www.ranying.xyz/apis/russianWord/getWord.html)
 
 ### Rules
 
