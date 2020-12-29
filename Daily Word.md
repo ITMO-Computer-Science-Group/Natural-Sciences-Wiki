@@ -1,3 +1,4 @@
+<html>
 <script>
 var word = new Array();
 var https = new XMLHttpRequest();
@@ -22,3 +23,4 @@ https.onreadystatechange = () => {
 
 <div id = "wordContent"></div>
 
+</html>
