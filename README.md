@@ -1,14 +1,15 @@
 # Russian-Language-Studying
 
-[Notice](#notice)
+[Daily Words](#daily-words)
 [Rules](#rules)
 [To-do List](#to-do-list)
 
 
-### Notice
-
-Don't pull any bad request!  
-[背诵今日单词](https://www.ranying.xyz/apis/russianWord/getWord.html)
+### Daily Words
+ 
+[背诵今日单词](https://www.ranying.xyz/apis/russianWord/getWord.html)  
+更新记录：  
+- 2020-12-30 将当日的主窗口单词单元格底色变为灰色
 
 ### Rules
 
@@ -68,19 +69,6 @@ Content
 
 - Tom
 ```
-
-### TO-Remember List
-
-**before 2020-12-27**
-
-- [ ] [кинематика](Physics/кинематика.md)
-- [ ] [оксид](Chemistry/оксид.md)
-
-**Other**
-
-- [ ] [кинематика special words](Physics/кинематика%20special%20words.md)
-- [ ] [Законы сохранения в механике](Physics/Законы%20сохранения%20в%20механике.md)
-- [ ] [гидроксид](Chemistry/гидроксид.md)
 
 ### To-do List
 
