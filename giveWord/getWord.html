@@ -14,22 +14,22 @@
     var nowNum = 0;
     var min = 0;
     var max = 0;
-    var rucn = 0
+    var rucn = 0;
     https.open("GET", url);
     https.send();
     https.onreadystatechange = () => {
         if (https.readyState == 4 && https.status == 200) {
             word = JSON.parse(https.responseText);
-            HTML = `Hello, it's your ${word["day"]+1} day remembering words!`
+            HTML = `Hello, it's your ${word["day"]+1} day remembering words!`;
             HTML += `<table>`;
             HTML += `<tr><td>index</td><td>русский</td><td>中文</td></tr>`;
             for (let i in word){
                 if(i>=0){
-                    HTML += `<tr><td>${index}</td><td>${word[i][0]}</td><td>${word[i][1]}</td></tr>`;
+                    HTML += `<tr ${index>14&&index<30?`style="background-color:rgb(200,200,200)"`:""}><td>${index}</td><td>${word[i][0]}</td><td>${word[i][1]}</td></tr>`;
                     wordList[index++]=new Array(word[i][0],word[i][1]);
                 }
             }
-            HTML += `</table>`
+            HTML += `</table>`;
             document.getElementById("word").innerHTML+=HTML;
             max = wordList.length-1;
         }
@@ -37,18 +37,25 @@
     isWord = true;
     function Mode(element){
         element.innerHTML = isWord?"抽查模式":"单词模式";
+        if(isWord)random(document.getElementById('newWord'));
         document.getElementById("word").style.display=isWord?"none":"block";
         document.getElementById("check").style.display=isWord?"block":"none";
         isWord = !isWord;
-    }
-    function newWord(element){
-        nowNum = Math.floor(Math.random()*(max-min+1)+min);
-        element.innerHTML=wordList[nowNum][rucn];
     }
     function change(element){
         rucn = rucn == 0?1:0;
         element.innerHTML= rucn == 1?"cn":"ru";
         document.getElementById("newWord").innerHTML=wordList[nowNum][rucn];
+    }
+    function random(element){
+        nowNum = Math.floor(Math.random()*(max-min+1)+min);
+        element.innerHTML=wordList[nowNum][rucn];
+        document.getElementById("nowIndex").innerHTML=`${nowNum}/${index}`;
+    }
+    function next(element){
+        nowNum = ++nowNum==index?0:nowNum;
+        element.innerHTML=wordList[nowNum][rucn];
+        document.getElementById("nowIndex").innerHTML=`${nowNum}/${index}`;
     }
     </script>
 </head>
@@ -56,8 +63,11 @@
     <button onclick="Mode(this)">单词模式</button>
     <div id="word" style="display: block;"></div>
     <div id="check" style="display: none;">
+        <div id="newWord" style="cursor: pointer; font-size: 3em;"></div>
         <button id="rucn" onclick="change(this)">ru</button>
-        <div id="newWord" style="cursor: pointer; font-size: 3em;" onclick="newWord(this)">开始</div>
+        <button onclick="next(document.getElementById('newWord'))">下一个</button>
+        <button onclick="random(document.getElementById('newWord'))">随机抽</button>
+        <span id="nowIndex"></span>
     </div>
 </body>
 </html>
