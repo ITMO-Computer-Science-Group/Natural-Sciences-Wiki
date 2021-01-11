@@ -2,18 +2,7 @@
 
 [Daily Words](#daily-words)
 [Rules](#rules)
-[To-do List](#to-do-list)
-
-
-### Daily Words
- 
 [背诵今日单词](https://www.ranying.xyz/apis/russianWord/getWord.html)  
-更新记录：  
-- 2020-12-30 将当日的主窗口单词单元格底色变为灰色
-- 2020-12-30 修正抽查模式逻辑，新增“随机抽”、“下一个”、“当前序号”等模块；修正模式转换逻辑
-- 2020-12-31 修正了由于时区原因导致的当日单词未如期加载，统一采用 UTC 时间
-- 2020-12-31 重构了后端 API 逻辑。增加 GET 参数“day”，可获取历史以来的任意一天的单词；减少了非必要运算步骤，大幅增加加载速度；增强可拓展性。
-- 2021-01-01 增强前端抽查模式逻辑，增加“上一个”、“滑块”等模块精细控制单词；修正部分 JavaScript 代码逻辑。
 
 ### Rules
 
@@ -73,23 +62,3 @@ Content
 
 - Tom
 ```
-
-### To-do List
-
-<!--
-Name EndTime DocumentName
-按照时间降序排列
--->
-
-- [ ] TO-DO   2020-12-22 Chemistry сборник задач1
-- [x] Ranying 2020-12-30 Math 21_22_Лин_Кв_урав_УравненияСМодулем
-- [ ] Benlala 2020-12-27 Physics З.сохр._1 (задачи) -> Законы сохранения в механике.md 
-- [x] Ranying 2020-12-27 Physics законы сохранения_задачи -> Законы сохранения в механике.md
-- [ ] Benlala 2020-12-22 Chemistry Основания
-- [x] Ranying 2020-12-22 Physics законы сохранения
-- [x] Ranying 2020-12-20 Physics Кинематика 2 задача
-- [x] Ranying 2020-12-15 Math Занятие 8
-- [x] Ranying 2020-12-14 Math Занятие 7
-- [x] Ranying 2020-12-13 Math Занятие 6
-- [x] Benlala 2020-12-14 Chemistry Гидроксиды
-- [x] Ranying 2020-12-11 Physics Динамика материальной точки. Силы в механике
