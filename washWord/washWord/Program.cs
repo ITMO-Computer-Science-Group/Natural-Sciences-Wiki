@@ -31,19 +31,56 @@ namespace washWord
                         if (line.Length != 0 && line[0] == '|')
                             if (!(line.Contains("русский") || line.Contains("-----")))
                             {
-                                Console.WriteLine($"{i}\t{line.Split('|')[1].Trim()}\t{line.Split('|')[2].Trim()}");
+                                //Console.WriteLine($"{i}\t{line.Split('|')[1].Trim()}\t{line.Split('|')[2].Trim()}");
                                 list.Add($"{i++}\t{line.Split('|')[1].Trim()}\t{line.Split('|')[2].Trim()}");
                             }
                     }
                 }
             }
-            using (StreamWriter sr = new StreamWriter($@"{Environment.CurrentDirectory}\\wordlist"))
+            ArrayList word = new ArrayList();
+            string[,] j = new string[list.Count, 2];
+            int ind = 0;
+            foreach(string x in list)
             {
-                foreach (string line in list)
+                j[ind, 0] =x.Split('\t')[1];
+                j[ind++, 1] =x.Split('\t')[2];
+            }
+            ArrayList zncn = new ArrayList();
+            for(int f = 0; f < j.Length/2-1; f++)
+            {
+                if (!zncn.Contains(j[f, 1])) 
+                { zncn.Add(j[f, 1]); }
+                else 
+                { continue; }
+                string zh = j[f, 1];
+                ArrayList ru = new ArrayList();
+                ru.Add(j[f, 0]);
+                bool has = false;
+                for(int x = f + 1; x < j.Length/2; x++)
                 {
-                    sr.WriteLine(line);
+                    if (j[x, 1]==j[f, 1]&&j[f,1]!=""&& j[x, 0] != j[f, 0])
+                    {
+                        has = true;
+                        ru.Add(j[x, 0]);
+                    }
+                }
+                if (has)
+                {
+                    Console.WriteLine(zh);
+                    foreach(string rru in ru)
+                    {
+                        Console.WriteLine(rru);
+                    }
                 }
             }
+            //using (StreamWriter sr = new StreamWriter($@"{Environment.CurrentDirectory}\\wordlist"))
+            //{
+            //    foreach (string line in list)
+            //    {
+            //        sr.WriteLine(line);
+            //    }
+            //}
+
             Console.WriteLine("down!");
             Console.ReadLine();
         }
