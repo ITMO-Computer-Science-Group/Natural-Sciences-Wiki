@@ -1,7 +1,6 @@
 Content
 
 - [Word](#word)
-- [Expression](#expression)
 
 ### Word
 
@@ -10,7 +9,3 @@ Content
 | пересекать пересечь | 穿过   |
 | перекресток         | 十字路口 |
 
-### Expression
-
-
-[baidu](www.baidu.com)
