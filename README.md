@@ -1,6 +1,6 @@
 # Russian-Language-Studying
-sss
-[Rules](#rules)
+
+[Rules](#rules)  
 [背诵今日单词](https://www.ranying.xyz/apis/russianWord/getWord.html)  
 
 ### Rules
