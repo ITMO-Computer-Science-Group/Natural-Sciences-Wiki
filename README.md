@@ -1,7 +1,23 @@
+<!--
+上标：º ¹ ² ³ ⁴⁵ ⁶ ⁷ ⁸ ⁹ ⁺ ⁻ ⁼ ⁽ ⁾ ⁿ ′ ½
+下标：₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ ₊ ₋ ₌ ₍ ₎
+重音：а́ о́ е́ и́ я́ у́ ю́ ы́ э́
+-->
+
+
 # Russian-Language-Studying
 
 [Rules](#rules)  
+[例会](#例会)  
 [Daily Words](https://www.ranying.xyz/api/Daily-Words/)  
+
+### 例会
+
+- 时间：每周日下午
+- 内容：
+  - 本周的 `维护生词表` 任务总结
+  - 下一周的 `Daily Words` 任务规划
+  - 其他临时增加的内容
 
 ### Rules
 
