@@ -1,7 +1,7 @@
 # Russian-Language-Studying
 
 [Rules](#rules)  
-[背诵今日单词](https://www.ranying.xyz/apis/russianWord/getWord.html)  
+[Daily Words](https://www.ranying.xyz/api/Daily-Words/)  
 
 ### Rules
 
