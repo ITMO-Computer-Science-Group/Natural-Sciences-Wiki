@@ -16,8 +16,14 @@
 - 时间：每周日下午
 - 内容：
   - 本周的 `维护生词表` 任务总结
-  - 下一周的 `Daily Words` 任务规划
+  - 下一周的 `Daily Words` 和 `Expression` 任务规划
   - 其他临时增加的内容
+- 2021-1-17 例会内容
+  1. 本周的 维护生词表 任务完成总结
+  2. 下一周的 Daily Words 和 Expression 任务规划
+  3. Daily Words 部署和使用
+  4. GIT 处理冲突
+  5. 去重软件使用
 
 ### Rules
 
