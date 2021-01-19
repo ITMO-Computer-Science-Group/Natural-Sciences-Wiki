@@ -5,7 +5,12 @@
 -->
 # Russian-Language-Studying
 
-[Rules](#rules)  
+[俄语语法](Russian%20Language%20Grammar/Grammar%20for%20Russian.md)  
+[物理](Physics/readme.md)  
+[化学](Chemistry/readme.md)  
+[数学](Math/readme.md)  
+[信息学](Information/readme.md)  
+[规则](#rules)  
 [例会](#例会)  
 [Daily Words](https://www.ranying.xyz/api/Daily-Words/)  
 
@@ -28,6 +33,8 @@
   1. 本周的 维护生词表 任务完成总结
   2. 下一周的 Daily Words 和 Expression 任务规划
   3. Github Web 和 Git History
+  4. GIT message
+  5. Word 公式编辑器
 
 ### Rules
 
