@@ -27,8 +27,7 @@
 - 2021-1-24 例会内容
   1. 本周的 维护生词表 任务完成总结
   2. 下一周的 Daily Words 和 Expression 任务规划
-  3. 关于最佳实践
-  4. Github Web 和 Git History
+  3. Github Web 和 Git History
 
 ### Rules
 
@@ -45,7 +44,12 @@ Content
 - [Expression](#expression)
 
 ### Notice
+
 ### Word
+
+| русский                 | 中文              |
+|-------------------------|-------------------|
+
 ### Expression
 ```
 1. 关于 `Word` 部分
