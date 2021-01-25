@@ -3,34 +3,25 @@
 下标：₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ ₊ ₋ ₌ ₍ ₎
 重音：а́ о́ е́ и́ я́ у́ ю́ ы́ э́
 -->
-# Russian-Language-Studying
+<img src="img/rls-bg.jpg" style="width:100%"/>
 
-[俄语语法](Russian%20Language%20Grammar/Grammar%20for%20Russian.md)  
-[物理](Physics/readme.md)  
-[化学](Chemistry/readme.md)  
-[数学](Math/readme.md)  
-[信息学](Information/readme.md)  
-[规则](#rules)  
-[民主生活会](#民主生活会)  
-[Daily Words](https://www.ranying.xyz/api/Daily-Words/)  
-[search](https://www.ranying.xyz/api/Daily-Words/search.html)
-
-我们的项目在实践和理论上有着无比的优越性。在理论上我们有以“内容生产-消费模型”为核心的与时俱进的最佳实践，内容生产者是以 Github 为核心的 维护生词表 ，内容消费者是以染樱的服务器为核心的 Daily Words 。在实践上我们有一个使集群效应和边际效应都恰到好处的团队，他们不断推动实践和理论向前发展。在这个项目的框架和设想中，我们可以实现对俄语课程深刻掌握。  
+### 索引
+- 各学科
+  - [俄语](Russian%20Language%20Grammar/Grammar%20for%20Russian.md)
+  - [物理](Physics/readme.md)
+  - [化学](Chemistry/readme.md)
+  - [数学](Math/readme.md)
+  - [信息学](Information/readme.md)
+- 文档
+  - [规则](#rules)
+  - [民主生活会](#民主生活会)
+  - [民主生活会的历史记录](mzshh-history.md)  
+- 内容消费
+  - [Daily Words](https://www.ranying.xyz/api/Daily-Words/)
+  - [search](https://www.ranying.xyz/api/Daily-Words/search.html)
 
 ### 民主生活会
 
-- 2021-1-17 `优化流程、改进工具、严格要求、砥砺前进`
-  1. 本周的 维护生词表 任务完成总结
-  2. 下一周的 Daily Words 和 Expression 任务规划
-  3. Daily Words 部署和使用
-  4. GIT 处理冲突
-  5. 去重软件使用
-- 2021-1-22 `坚决反对各种错误思潮，坚决坚定对维护生词表的自信！`
-  1. 本周的 维护生词表 任务完成总结
-  2. 下一周的 Daily Words 和 Expression 任务规划
-  3. Github Web 和 Git History
-  4. GIT message
-  5. Word 公式编辑器
 - 2021-1-29 
   1. 本周 维护生词表 任务完成总结
   2. 下一周的 Daily Words 任务规划
