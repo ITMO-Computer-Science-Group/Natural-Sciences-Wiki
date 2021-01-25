@@ -13,6 +13,7 @@
 [规则](#rules)  
 [民主生活会](#民主生活会)  
 [Daily Words](https://www.ranying.xyz/api/Daily-Words/)  
+[search](https://www.ranying.xyz/api/Daily-Words/search.html)
 
 我们的项目在实践和理论上有着无比的优越性。在理论上我们有以“内容生产-消费模型”为核心的与时俱进的最佳实践，内容生产者是以 Github 为核心的 维护生词表 ，内容消费者是以染樱的服务器为核心的 Daily Words 。在实践上我们有一个使集群效应和边际效应都恰到好处的团队，他们不断推动实践和理论向前发展。在这个项目的框架和设想中，我们可以实现对俄语课程深刻掌握。  
 
@@ -30,6 +31,11 @@
   3. Github Web 和 Git History
   4. GIT message
   5. Word 公式编辑器
+- 2021-1-29 
+  1. 本周 维护生词表 任务完成总结
+  2. 下一周的 Daily Words 任务规划
+  3. 本周 Expression 审阅
+  4. search
 
 ### Rules
 
