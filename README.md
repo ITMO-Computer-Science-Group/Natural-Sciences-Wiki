@@ -3,7 +3,7 @@
 下标：₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ ₊ ₋ ₌ ₍ ₎
 重音：а́ о́ е́ и́ я́ у́ ю́ ы́ э́
 -->
-<img src="img/rls-bg.jpg" style="width:100%"/>
+<img src="img/rls-bg.jpg" style="width:100%;cursor:none;"/>
 
 ### 索引
 - 各学科
@@ -22,7 +22,7 @@
 
 ### 民主生活会
 
-- 2021-1-29 
+- 2021-1-29 `鼓足干劲，力争上游，小步快跑，快速迭代`
   1. 本周 维护生词表 任务完成总结
   2. 下一周的 Daily Words 任务规划
   3. 本周 Expression 审阅
@@ -39,8 +39,8 @@
 Content
 
 - [Notice](#Notice)
-- [Word](#word)
-- [Expression](#expression)
+- [Word](#Word)
+- [Expression](#Expression)
 
 ### Notice
 
