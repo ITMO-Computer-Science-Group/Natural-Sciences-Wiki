@@ -22,11 +22,20 @@
 
 ### 民主生活会
 
-- 2021-1-29 `鼓足干劲，力争上游，小步快跑，快速迭代`
+- 2021-1-29
   1. 本周 维护生词表 任务完成总结
   2. 下一周的 Daily Words 任务规划
+    - 日常：主窗口15 + 复习窗口15 + 标记词5
+    - 周末：主窗口0  + 复习窗口0  + 标记词10
   3. 本周 Expression 审阅
-  4. search
+    - [数学：自然数](Занятие-1-2-3-自然数.md)
+  4. 转义符\
+  5. search 的开放
+    - [search](https://www.ranying.xyz/api/Daily-Words/search.html)
+  6. 对团队的组织的重要讲话
+    - [最佳实践](https://baike.baidu.com/item/%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5)
+    - [敏捷](https://baike.baidu.com/item/%E6%95%8F%E6%8D%B7%E6%96%B9%E6%B3%95)
+    - [分布式](https://baike.baidu.com/item/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F)
 
 ### Rules
 
