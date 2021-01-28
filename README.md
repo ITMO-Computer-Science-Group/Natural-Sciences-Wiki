@@ -14,37 +14,10 @@
   - [信息学](Information/readme.md)
 - 文档
   - [规则](#rules)
-  - [民主生活会](#民主生活会)
-  - [民主生活会的历史记录](mzshh-history.md)  
+  - [民主生活会](https://github.com/Ran-ying/Russian-Language-Studying/issues)
 - 内容消费
   - [Daily Words](https://www.ranying.xyz/api/Daily-Words/)
   - [search](https://www.ranying.xyz/api/Daily-Words/search.html)
-
-### 民主生活会
-
-- 2021-1-29
-  - 本周 维护生词表 任务完成总结
-  - 下一周的 Daily Words 任务规划
-    - 日常：主窗口15 + 复习窗口15 + 标记词5
-    - 周末：主窗口0  + 复习窗口0  + 标记词10
-  - 本周 Expression 审阅
-    - [数学：自然数](Занятие-1-2-3-自然数.md)
-  - 转义符\
-  - search 的开放
-    - [search](https://www.ranying.xyz/api/Daily-Words/search.html)
-  - 对团队的组织的重要讲话
-    - [最佳实践](https://baike.baidu.com/item/%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5)
-    - [敏捷](https://baike.baidu.com/item/%E6%95%8F%E6%8D%B7%E6%96%B9%E6%B3%95)
-    - [分布式](https://baike.baidu.com/item/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F)
-- 2021-2-5
-  - 本周 维护生词表 任务完成总结
-  - 下一周的 Daily Words 任务规划
-    - 日常：主窗口15 + 复习窗口15 + 标记词5
-    - 周末：主窗口0  + 复习窗口0  + 标记词10
-  - 本周 Expression 审阅
-    - 待定
-  - 内容生产流程：history content, contributing content
-  - 民主生活会 issue 讨论
 
 ### Rules
 
