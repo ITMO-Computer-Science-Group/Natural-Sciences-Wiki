@@ -13,13 +13,16 @@
   - [数学](Math/readme.md)
   - [信息学](Information/readme.md)
 - 文档
-  - [规则](#rules)
+  - [内容生产-消费模型](#内容生产-消费模型)
+  - [内容生产规则](#内容生产规则)
   - [民主生活会](https://github.com/Ran-ying/Russian-Language-Studying/issues)
 - 内容消费
   - [Daily Words](https://www.ranying.xyz/api/Daily-Words/)
   - [search](https://www.ranying.xyz/api/Daily-Words/search.html)
 
-### Rules
+### 内容生产-消费模型
+
+### 内容生产规则
 
 0. 一个文档的基本格式，通常包含以下部分，他们都是可选的：
   - Notice
