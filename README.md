@@ -13,13 +13,27 @@
   - [数学](Math/readme.md)
   - [信息学](Information/readme.md)
 - 文档
-  - [规则](#rules)
+  - [内容生产-消费模型](#内容生产-消费模型)
+  - [内容生产规则](#内容生产规则)
   - [民主生活会](https://github.com/Ran-ying/Russian-Language-Studying/issues)
 - 内容消费
   - [Daily Words](https://www.ranying.xyz/api/Daily-Words/)
   - [search](https://www.ranying.xyz/api/Daily-Words/search.html)
 
-### Rules
+### 内容生产-消费模型
+
+- 内容生产
+  - contributing content
+    - 双检验模式
+    - 双冗余模式
+    - 三冗余模式
+  - history content
+    - ~~待定~~
+- 内容消费
+  - Word 部分由 [Daily Words](https://www.ranying.xyz/api/Daily-Words/) 进行消费
+  - Expression 的 形式部分 由 民主生活会 进行消费
+
+### 内容生产规则
 
 0. 一个文档的基本格式，通常包含以下部分，他们都是可选的：
   - Notice
