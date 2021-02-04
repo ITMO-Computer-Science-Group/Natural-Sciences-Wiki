@@ -12,6 +12,8 @@
   - [化学](Chemistry/readme.md)
   - [数学](Math/readme.md)
   - [信息学](Information/readme.md)
+  - [历史](History/readme.md)
+  - [工业制图](Engineering%20graphics/readme.md)
 - 文档
   - [内容生产-消费模型](#内容生产-消费模型)
   - [内容生产规则](#内容生产规则)
