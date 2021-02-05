@@ -3,7 +3,7 @@
 下标：₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ ₊ ₋ ₌ ₍ ₎
 重音：а́ о́ е́ и́ я́ у́ ю́ ы́ э́
 -->
-<img src="img/rls-bg.jpg" style="width:100%;cursor:none;"/>
+<img src="img/rls-bg.jpg" style="width:100%;"/>
 
 ### 索引
 - 各学科
@@ -42,7 +42,7 @@
   - Notice
   - Word
   - Expression
-
+1. 文档模板
 ```
 Content
 
@@ -59,7 +59,7 @@ Content
 
 ### Expression
 ```
-1. 关于 `Word` 部分
+2. 关于 `Word` 部分
   - 总要求：
     - 记录词的原型
     - 非专有名词首字母不大写
@@ -85,7 +85,7 @@ Content
     - 前置词请记录到[前置词语法](Russian%20Language%20Grammar/Grammar%20for%20Russian.md#前置词语法)中
     - 要求标注词性，例如“【代】он”
 
-2. 关于 `Expression` 部分
+3. 关于 `Expression` 部分
   - 此部分用于记录中文的内容在俄语表达，或无法在 Word 里表示的内容。
   - 推荐的完成范例是[分数与小数](Math/Занятие-4-5-分数与小数.md#Expression)
   - 在Expression里的所有东西都要用无序列表表示其归属
