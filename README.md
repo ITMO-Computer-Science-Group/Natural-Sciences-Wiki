@@ -90,10 +90,12 @@ Content
   - 推荐的完成范例是[分数与小数](Math/Занятие-4-5-分数与小数.md#Expression)
   - 在Expression里的所有东西都要用无序列表表示其归属
 4. 分式显示
-
+- 模板：
 ```
 <table border="0" cellpadding="0" cellspacing="0">
 <tr><td style="border-bottom:solid 1 black">上方内容</td></tr>
 <tr><td>下方内容</td></tr>
 </table>
 ```
+- 效果：  
+命名 <table style="display:inline;"cellpadding="0" cellspacing="0"><tr><td style="border-bottom:solid 1 black">上方内容</td></tr><tr><td>下方内容</td></tr></table>
