@@ -89,4 +89,11 @@ Content
   - 此部分用于记录中文的内容在俄语表达，或无法在 Word 里表示的内容。
   - 推荐的完成范例是[分数与小数](Math/Занятие-4-5-分数与小数.md#Expression)
   - 在Expression里的所有东西都要用无序列表表示其归属
+4. 分式显示
 
+```
+<table border="0" cellpadding="0" cellspacing="0">
+<tr><td style="border-bottom:solid 1 black">上方内容</td></tr>
+<tr><td>下方内容</td></tr>
+</table>
+```
