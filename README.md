@@ -39,18 +39,15 @@
 ### 内容生产规则
 
 0. 一个文档的基本格式，通常包含以下部分，他们都是可选的：
-  - Notice
+  - ~~Notice~~旧标准，废弃不用。
   - Word
   - Expression
 1. 文档模板
 ```
 Content
 
-- [Notice](#Notice)
 - [Word](#Word)
 - [Expression](#Expression)
-
-### Notice
 
 ### Word
 
