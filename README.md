@@ -20,7 +20,7 @@
   - [数学](Math/readme.md)
   - [信息学](Information/readme.md)
   - [历史](History/readme.md)
-  - [工程图形](Engineering%20graphics/readme.md)
+  - [工程制图](Engineering%20graphics/readme.md)
 - 文档
   - [任务日程表](https://docs.qq.com/sheet/DRk9SWkdsclVJUG5K?scene=2CFfg4EGvnZ3KgCfg420Afg4V6wFn1)
   - [内容生产-消费模型](#内容生产-消费模型)
