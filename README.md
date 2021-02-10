@@ -18,7 +18,7 @@
   - [物理](Physics/readme.md)
   - [化学](Chemistry/readme.md)
   - [数学](Math/readme.md)
-  - [信息学](Information/readme.md)
+  - [信息](Information/readme.md)
   - [历史](History/readme.md)
   - [工程制图](Engineering%20graphics/readme.md)
 - 文档
