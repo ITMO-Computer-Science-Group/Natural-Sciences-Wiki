@@ -5,6 +5,13 @@
 -->
 <img src="img/rls-bg.jpg" style="width:100%;"/>
 
+### 本仓库贡献人员
+
+[Ranying](https://github.com/Ran-ying)  
+[Tolia-GH](https://github.com/Tolia-GH)  
+[GreatTyron](https://github.com/GreatTyron)  
+[D-benlala](https://github.com/D-benlala)  
+
 ### 索引
 - 各学科
   - [俄语](Russian%20Language%20Grammar/Grammar%20for%20Russian.md)
