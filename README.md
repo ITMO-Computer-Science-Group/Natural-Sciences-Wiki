@@ -34,22 +34,33 @@
 
 - 内容生产
   - contributing content
-    - 双检验模式
-    - 双冗余模式
-    - 三冗余模式
+    - 内容生命周期
+      - 内容生产位
+      - 内容检验位
+    - 人员安排调配
+      - 协同者
+    - 一般生产流程
+
+| Jack | Contributor|
+|-|-|
+|1.发布任务|2.接受任务<br/>3.处理Expression<br/>4.提请word|
+|5.单词初步去重|6.单词完全去重|
+|7.返回单词释义|8.单词再检查|
+||9. Word 与 Expression 提交|
+
   - history content
-    - ~~待定~~
+    - 内容由贡献者负责修改
 - 内容消费
   - Word 部分由 [Daily Words](https://www.ranying.xyz/api/Daily-Words/) 进行消费
   - Expression 的 形式部分 由 民主生活会 进行消费
 
 ### 内容生产规则
 
-0. 一个文档的基本格式，通常包含以下部分，他们都是可选的：
+- 一个文档的基本格式，通常包含以下部分，他们都是可选的：
   - ~~Notice~~旧标准，废弃不用。
   - Word
   - Expression
-1. 文档模板
+- 文档模板
 ```
 Content
 
@@ -63,7 +74,7 @@ Content
 
 ### Expression
 ```
-2. 关于 `Word` 部分
+- 关于 `Word` 部分
   - 总要求：
     - 记录词的原型
     - 非专有名词首字母不大写
@@ -89,7 +100,13 @@ Content
     - 前置词请记录到[前置词语法](Russian%20Language%20Grammar/Grammar%20for%20Russian.md#前置词语法)中
     - 要求标注词性，例如“【代】он”
 
-3. 关于 `Expression` 部分
+- 关于 `Expression` 部分
   - 此部分用于记录中文的内容在俄语表达，或无法在 Word 里表示的内容。
   - 推荐的完成范例是[分数与小数](Math/Занятие-4-5-分数与小数.md#Expression)
   - 在Expression里的所有东西都要用无序列表表示其归属
+
+- Commit Message
+  - 内容生产位
+    - 协同者 编号
+  - 其余
+    - update 原因
