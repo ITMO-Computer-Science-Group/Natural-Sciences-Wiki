@@ -37,9 +37,21 @@
     - 内容生命周期
       - 内容生产位
       - 内容检验位
-    - 人员安排调配
-      - 协同者
-    - 一般生产流程
+  - history content
+    - 内容由贡献者负责修改
+- 内容消费
+  - Word 部分由 [Daily Words](https://www.ranying.xyz/api/Daily-Words/) 进行消费
+  - Expression 的 形式部分 由 民主生活会 进行消费
+- 人员安排调配
+
+|      | 化学 | 物理 | 历史 | 信息 | 数学 | 工程制图 |
+|------|----|----|----|----|----|------|
+| [Ranying](https://github.com/Ran-ying)   | √ |    |    | √  |    | √    |
+| [GreatTyron](https://github.com/GreatTyron) | √  |    |  √ |    | √  |      |
+| [D-benlala](https://github.com/D-benlala) |    | √  | √  |    | √  |      |
+| [Tolia-GH](https://github.com/Tolia-GH)  |    | √  |    | √  |    | √    |
+
+- 一般生产流程
 
 | Jack | Contributor|
 |-|-|
@@ -47,12 +59,6 @@
 |5.单词初步去重|6.单词完全去重|
 |7.返回单词释义|8.单词再检查|
 ||9. Word 与 Expression 提交|
-
-  - history content
-    - 内容由贡献者负责修改
-- 内容消费
-  - Word 部分由 [Daily Words](https://www.ranying.xyz/api/Daily-Words/) 进行消费
-  - Expression 的 形式部分 由 民主生活会 进行消费
 
 ### 内容生产规则
 
