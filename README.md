@@ -51,15 +51,6 @@
 | [D-benlala](https://github.com/D-benlala) |    | √  | √  |    | √  |      |
 | [Tolia-GH](https://github.com/Tolia-GH)  |    | √  |    | √  |    | √    |
 
-- 一般生产流程
-
-| Jack | Contributor|
-|-|-|
-|1.发布任务|2.接受任务<br/>3.处理Expression<br/>4.提请word|
-|5.单词初步去重|6.单词完全去重|
-|7.返回单词释义|8.单词再检查|
-||9. Word 与 Expression 提交|
-
 ### 内容生产规则
 
 - 一个文档的基本格式，通常包含以下部分，他们都是可选的：
