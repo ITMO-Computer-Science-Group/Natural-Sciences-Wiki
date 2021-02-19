@@ -103,7 +103,4 @@ Content
   - 在Expression里的所有东西都要用无序列表表示其归属
 
 - Commit Message
-  - 内容生产位
-    - 协同者 编号
-  - 其余
-    - update 原因
+  - update 文件名
