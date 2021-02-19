@@ -1,7 +1,6 @@
 Content
 
 - [Word](#Word)
-- [Expression](#Expression)
 
 ### Word
 
@@ -23,5 +22,3 @@ Content
 | выполне́ние | 履行，执行，完成 |
 | отчёт | 报告，表报，总结 |
 | конус | 圆锥，圆锥体，锥形物 |
-
-### Expression
