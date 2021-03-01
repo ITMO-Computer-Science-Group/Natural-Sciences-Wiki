@@ -8,7 +8,6 @@
 [D-benlala](https://github.com/D-benlala)  
 
 ### 索引
-- 各学科
   - [俄语](Russian%20Language%20Grammar/Grammar%20for%20Russian.md)
   - [物理](Physics/readme.md)
   - [化学](Chemistry/readme.md)
@@ -16,40 +15,10 @@
   - [信息](Information/readme.md)
   - [历史](History/readme.md)
   - [工程制图](Engineering%20graphics/readme.md)
-- 文档
-  - [任务日程表](https://docs.qq.com/sheet/DRk9SWkdsclVJUG5K?scene=2CFfg4EGvnZ3KgCfg420Afg4V6wFn1)
-  - [内容生产-消费模型](#内容生产-消费模型)
-  - [内容生产规则](#内容生产规则)
-  - [民主生活会](https://github.com/Ran-ying/Russian-Language-Studying/issues)
-- 内容消费
-  - [Daily Words](https://www.ranying.xyz/api/Daily-Words/)
-  - [search](https://www.ranying.xyz/api/Daily-Words/search.html)
-
-### 内容生产-消费模型
-
-- 内容生产
-  - contributing content
-    - 内容生命周期
-      - 内容生产位
-      - 内容检验位
-  - history content
-    - 内容由贡献者负责修改
-- 内容消费
-  - Word 部分由 [Daily Words](https://www.ranying.xyz/api/Daily-Words/) 进行消费
-  - Expression 的 形式部分 由 民主生活会 进行消费
-- 人员安排调配
-
-|      | 化学 | 物理 | 历史 | 信息 | 数学 | 工程制图 |
-|------|----|----|----|----|----|------|
-| [Ranying](https://github.com/Ran-ying)   | √ |    |    | √  |    | √    |
-| [GreatTyron](https://github.com/GreatTyron) | √  |    |  √ |    | √  |      |
-| [D-benlala](https://github.com/D-benlala) |    | √  | √  |    | √  |      |
-| [Tolia-GH](https://github.com/Tolia-GH)  |    | √  |    | √  |    | √    |
 
 ### 内容生产规则
 
 - 一个文档的基本格式，通常包含以下部分，他们都是可选的：
-  - ~~Notice~~旧标准，废弃不用。
   - Word
   - Expression
 - 文档模板
@@ -91,11 +60,3 @@ Content
   - 其他词
     - 前置词请记录到[前置词语法](Russian%20Language%20Grammar/Grammar%20for%20Russian.md#前置词语法)中
     - 要求标注词性，例如“【代】он”
-
-- 关于 `Expression` 部分
-  - 此部分用于记录中文的内容在俄语表达，或无法在 Word 里表示的内容。
-  - 推荐的完成范例是[分数与小数](Math/Занятие-4-5-分数与小数.md#Expression)
-  - 在Expression里的所有东西都要用无序列表表示其归属
-
-- Commit Message
-  - update 文件名
