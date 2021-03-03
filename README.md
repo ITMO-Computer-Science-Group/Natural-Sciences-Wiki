@@ -20,20 +20,20 @@
 
 - 一个文档的基本格式，通常包含以下部分，他们都是可选的：
   - Word
-  - Expression
+  - Grammar
 - 文档模板
 ```
 Content
 
 - [Word](#Word)
-- [Expression](#Expression)
+- [Grammar](#Grammar)
 
 ### Word
 
 | русский                 | 中文              |
 |-------------------------|-------------------|
 
-### Expression
+### Grammar
 ```
 - 关于 `Word` 部分
   - 总要求：
