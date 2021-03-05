@@ -10,7 +10,7 @@
 ### 索引
   - [俄语](Russian%20Language%20Grammar/Grammar%20for%20Russian.md)
   - [物理](Physics/readme.md)
-  - [化学](Chemistry/readme.md)
+  - [化学](Chemistry/README.md)
   - [数学](Math/readme.md)
   - [信息](Information/readme.md)
   - [历史](History/readme.md)
@@ -25,15 +25,16 @@
 ```
 Content
 
-- [Word](#Word)
 - [Grammar](#Grammar)
+- [Word](#Word)
+
+### Grammar
 
 ### Word
 
 | русский                 | 中文              |
 |-------------------------|-------------------|
 
-### Grammar
 ```
 - 关于 `Word` 部分
   - 总要求：
