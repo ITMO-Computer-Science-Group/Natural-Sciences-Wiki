@@ -1,21 +1,3 @@
-<img src="img/rls-bg.jpg" style="width:100%;"/>
-
-### 本仓库贡献人员
-
-[Ranying](https://github.com/Ran-ying)  
-[Tolia-GH](https://github.com/Tolia-GH)  
-[GreatTyron](https://github.com/GreatTyron)  
-[D-benlala](https://github.com/D-benlala)  
-
-### 索引
-  - [俄语](Russian%20Language%20Grammar/Grammar%20for%20Russian.md)
-  - [物理](Physics/README.md)
-  - [化学](Chemistry/README.md)
-  - [数学](Math/README.md)
-  - [信息](Information/README.md)
-  - [历史](History/README.md)
-  - [工程制图](Engineering%20graphics/README.md)
-
 ### RLS Client
 
 [在此下载 RLS Client](https://github.com/ITMO-Computer-Science-Group/Russian-Language-Studying/releases)
