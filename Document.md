@@ -49,3 +49,5 @@
   - 其他词
     - 前置词请记录到[前置词语法](Russian%20Language%20Grammar/Grammar%20for%20Russian.md#前置词语法)中
     - 要求标注词性，例如“【代】он”
+  - 【】
+  - （）
