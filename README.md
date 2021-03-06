@@ -9,12 +9,12 @@
 
 ### 索引
   - [俄语](Russian%20Language%20Grammar/Grammar%20for%20Russian.md)
-  - [物理](Physics/readme.md)
+  - [物理](Physics/README.md)
   - [化学](Chemistry/README.md)
-  - [数学](Math/readme.md)
-  - [信息](Information/readme.md)
-  - [历史](History/readme.md)
-  - [工程制图](Engineering%20graphics/readme.md)
+  - [数学](Math/README.md)
+  - [信息](Information/README.md)
+  - [历史](History/README.md)
+  - [工程制图](Engineering%20graphics/README.md)
 
 ### 内容生产规则
 
