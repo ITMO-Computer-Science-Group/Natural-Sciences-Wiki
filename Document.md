@@ -16,6 +16,10 @@
   - [历史](History/README.md)
   - [工程制图](Engineering%20graphics/README.md)
 
+### RLS Client
+
+[在此下载 RLS Client](https://github.com/ITMO-Computer-Science-Group/Russian-Language-Studying/releases)
+
 ### 内容生产规则
 
 - 一个文档的基本格式，通常包含以下部分，他们都是可选的：
