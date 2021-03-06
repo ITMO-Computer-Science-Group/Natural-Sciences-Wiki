@@ -1,6 +1,6 @@
-**content**
+# hardware
 
-[Word](#word)
+- [Word](#word)
 
 ### Word
 
