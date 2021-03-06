@@ -1,4 +1,4 @@
-**content**
+# hardware
 
 [Word](#word)
 
