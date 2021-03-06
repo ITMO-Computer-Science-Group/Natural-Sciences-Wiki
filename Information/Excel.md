@@ -1,6 +1,6 @@
 # Excel
 
-- [Word](#Word)
+- [Word](#word)
 
 ### Word
 

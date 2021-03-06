@@ -30,8 +30,8 @@
   ```
   # Title
 
-  - [Grammar](#Grammar)
-  - [Word](#Word)
+  - [Grammar](#grammar)
+  - [Word](#word)
 
   ### Grammar
 
