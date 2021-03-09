@@ -1,6 +1,7 @@
 <!---->
 <img src="img/rls-bg.jpg" style="width:100%;"/>
 
+### [首页](https://itmo.ranying.xyz/)
 # About
 
 这个页面是 [ICSG](https:/itmo.ranying.xyz) 的一部分。
