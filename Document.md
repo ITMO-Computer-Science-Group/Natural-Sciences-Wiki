@@ -1,8 +1,8 @@
-### RLS Client
+## RLS Client
 
 [在此下载 RLS Client](https://github.com/ITMO-Computer-Science-Group/Russian-Language-Studying/releases)
 
-### 内容生产规则
+## 内容生产规则：
 
 - 一个文档的基本格式，通常包含以下部分，他们都是可选的：
   - Word
@@ -49,3 +49,5 @@
   - 其他词
     - 前置词请记录到[前置词语法](Russian%20Language%20Grammar/Grammar%20for%20Russian.md#前置词语法)中
     - 要求标注词性，例如“【代】он”
+  - 【】
+  - （）
