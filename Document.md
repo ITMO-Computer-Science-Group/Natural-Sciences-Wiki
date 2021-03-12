@@ -15,9 +15,9 @@
 - [Grammar](#grammar)
 - [Word](#word)
 
-### Grammar
+## Grammar
 
-### Word
+## Word
 
 | русский                 | 中文              |
 |-------------------------|-------------------|
