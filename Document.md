@@ -2,6 +2,18 @@
 
 [在此下载 RLS Client](https://github.com/ITMO-Computer-Science-Group/Russian-Language-Studying/releases)
 
+## 人员安排调配
+- 仓库维护：
+  - [Ranying](https://github.com/Ran-ying)  
+  - [Tolia-GH](https://github.com/Tolia-GH)  
+- 仓库生产：
+  |      | 化学 | 物理 | 历史 | 信息 | 数学 | 工程制图 |
+  |------|----|----|----|----|----|------|
+  | [Ranying](https://github.com/Ran-ying)   | √ |    |    | √  |    | √    |
+  | [GreatTyron](https://github.com/GreatTyron) | √  |    |  √ |    | √  |      |
+  | [D-benlala](https://github.com/D-benlala) |    | √  | √  |    | √  |      |
+  | [Tolia-GH](https://github.com/Tolia-GH)  |    | √  |    | √  |    | √    |
+
 ## 内容生产规则：
 
 - 一个文档的基本格式，通常包含以下部分，他们都是可选的：
