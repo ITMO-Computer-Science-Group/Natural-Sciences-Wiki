@@ -1,4 +1,3 @@
 # Information
 
-- [硬件](hardware.md)
-- [Excel](Excel.md)
+- [预科信息](预科信息.md)
