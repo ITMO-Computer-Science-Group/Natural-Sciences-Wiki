@@ -22,7 +22,7 @@
 >
 >- <参考文献名称>——<参考文献来源>
 >
-><script type="text/javascript" async src="https://itmo.ranying.xyz/mathjax/LaTeX.js"></script>
+>
 
 具体实现需要根据生产者根据实际情况自行调整
 
