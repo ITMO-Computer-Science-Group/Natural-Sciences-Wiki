@@ -1,44 +1,26 @@
-# ITMO-Computer-Science-Group
-
 <img src="img/icsg.jpg" style="width:100%;"/>
 
-## 其他语言
-[English](README-en.md)
-<span style="font-size:2em;font-style:bold;">欢迎来到ITMO计算机科学小组的网页！</span>
+<span style="font-size:2em;font-style:bold;">欢迎来到俄罗斯理工科留学知识体系的 Wiki！</span>
 
-我们是中国教育部留学基金委员会派出至ITMO大学计算机类专业的学生。由于出国学习的种种不便与困难，我们借助GitHub平台，自发地建立了这个组织，开创了这个以学习为目的的项目。以团队合作的形式，民主集中的制度，共同学习，彼此监督。  
+## 这是什么？
 
-## 项目介绍
-这个项目有迹可考于2020年11月21日。在每一位项目贡献者无数个日月的辛勤的奋斗下，由最初的俄语学习内容，不断地扩展，发展到现在，已经涵盖了绝大部分的俄语语法，大量圣彼得堡矿业大学预科各个学科的知识，在将来，我们还会陆续添加ITMO大学多个专业的课程内容，供大家参考学习。  
-
+这个项目有迹可考于2020年11月21日。这个 Wiki 是我们整理的关于在俄罗斯留学时理工科学习的知识汇总，这个网站欢迎大家来贡献和修改内容。
 
 ## 参与到这个项目中
 
-[](Tutorial/README.md)
-- 此项目的总负责人染樱的 Telegram：https://t.me/Ranying
-- Telegram 群组：https://t.me/ICSG_Official
-- 可以将错误报告给 托利亚：
-  - <img src="img/wechat.jpg" style="width:300px"/>
-- 使用 GitHub 提出 pr 修改内容错误：[GitHub](https://github.com/ITMO-Computer-Science-Group/) 
-- 查看使用 GitHub Pages 制作的网站，在这里你可以访问到项目最新的内容：[GitHub Pages](https://itmo-computer-science-group.github.io/ITMO-Computer-Science-Group/)
-- 我们的知识网络系统：[ICSG wiki](https://moe.ranying.xyz/)
+- `Telegram` 群组：[Telegram](https://t.me/ICSG_Official)
+- 注册 `GitHub`，点击 Wiki 页面右上角的 `Edit on GitHub`，在网页版在线改进内容。
+- 阅读我们的文档：[文档](Tutorial/README.md)
 
-## 组织人员
+## 我们是谁？
 
-- ### 管理员
-    - [Ran-ying](https://github.com/Ran-ying) - 组织创始人，项目发起人，维护者，贡献者
-    - [Tolia-GH](https://github.com/Tolia-GH) - 组织创始人，维护者，贡献者  
-  
-- ### 成员
-    - [GreatTyron](https://github.com/GreatTyron) - 预科仓库贡献者 
-    - [D-benlala](https://github.com/D-benlala) - 预科仓库贡献者 
-    - [thesorrymaker](https://github.com/thesorrymaker) - 专业课仓库贡献者
-    - [LIN020504](https://github.com/LIN020504) - 专业课仓库贡献者
-
-## 项目内容
-- ### 内容仓库
-    - [语言学习](https://itmo-computer-science-group.github.io/Russian-Language-Studying/)  
-    - [预科课程](https://itmo-computer-science-group.github.io/Preparatory-Courses/)
+- [Ran-ying](https://github.com/Ran-ying)
+    - 大家好！
+- [Tolia-GH](https://github.com/Tolia-GH)
+- [GreatTyron](https://github.com/GreatTyron)
+- [D-benlala](https://github.com/D-benlala)
+- [thesorrymaker](https://github.com/thesorrymaker)
+- [LIN020504](https://github.com/LIN020504)
 
 ## 项目历程
 
