@@ -26,12 +26,12 @@
 2. 打开 [Wiki 仓库地址](https://github.com/ITMO-Computer-Science-Group/Natural-Sciences-Wiki)
 3. 点击 Add file，在下拉选项中点击 Create new file
 4. 此时您将会看到两个文本框：
-   1. 目录文本框：“Natural-Science-Wiki/Name your file in ITMO-Computer-Science-Group:main”，此时将 `Name your file` 改成想要提交的目录位置（如果这个科目还没有被建立），或者在 [Wiki 仓库](https://github.com/ITMO-Computer-Science-Group/Natural-Sciences-Wiki)打开指定的目录，此处即可不用填写。
-   2. 文件内容文本框：在这里用 Markdown 和 LaTeX 编写文件
-5. 编写完成后可点击 Preview 预览
-6. 点击下方的 Propose new file （绿色）保存文件
-7. 点击 Create pull request （绿色）向 Wiki 创建提交请求
-8. 在新的页面留下附言、评论或说明，然后点击 Create pull request （绿色）
+    1. 目录文本框：“Natural-Science-Wiki/Name your file in ITMO-Computer-Science-Group:main”，此时将  `Name your file` 改成想要提交的目录位置（如果这个科目还没有被建立），或者在 [Wiki 仓库](https://github.com/ITMO-Computer-Science-Group/Natural-Sciences-Wiki)打开指定的目录，此处即可不用填写。
+    2. 文件内容文本框：在这里用 `Markdown` 和 `LaTeX` 编写文件
+5. 编写完成后可点击 `Preview` 预览
+6. 点击下方的 `Propose new file` （绿色）保存文件
+7. 点击 `Create pull request` （绿色）向 Wiki 创建提交请求
+8. 在新的页面留下附言、评论或说明，然后点击 `Create pull request` （绿色）
 9. 好！等待我们的审核即可！
 
 ## 我需要掌握哪些技术？
@@ -39,6 +39,7 @@
 ### 本仓库的文件标准
 
 我们的标准很简单：
+
 - 每个文件必须要有一个文件标题
 - 内容标题从大标题到小标题，标题层级从二依次递减
 - 内容使用无序列表表示其逻辑
@@ -60,47 +61,43 @@
 
 ### Markdown
 
-这是一个 GitHub Flavored Markdown 的简单教程，只取了部分和 Wiki 编辑有关的内容。Markdown 不同于 Word 等软件，他没有太多的富文本格式。
+这是一个 GitHub Flavored Markdown 的简单教程，只取了部分和 Wiki 编辑有关的内容。Markdown 不同于 Word 等软件，他没有太多的富文本格式。如果想要了解更多，请查找 GitHub Flavored Markdown 的相关资料。
 
 - 换行：在一行的结尾加两个空格
 - 文字高亮（反斜杠，在键盘左上角）：\`文字\`
 - 斜体：\*斜体\*
 - 粗体：\*\*粗体\*\*
-- 删除线：\~\~删除线\~\~
--  标题
-    ```
-    # 一级标题
-    ## 二级标题
-    ### 三级标题
-    #### 四级标题
-    ##### 五级标题
-    ###### 六级标题
-    ```
+- 标题
+
+    \# 一级标题  
+    \#\# 二级标题  
+    \#\#\# 三级标题  
+    \#\#\#\# 四级标题  
+    \#\#\#\#\# 五级标题  
+    \#\#\#\#\#\# 六级标题  
+
 - 表格
     - 标准 Markdown 语法：
+  
         ```
         |表头|左对齐|居中|右对齐|
         |----|:----|:----:|----:|
         |内容|内容|内容|内容|
         ```
+
     - Excel 转换成 Markdown 表格：
         - 点击 [https://tableconvert.com/](https://tableconvert.com/)，在上方 import 选择并复制您的 Excel，在下方选择 Markdown 并复制转换得到的 Markdown 语法
-- 块引用
-    ```
-    >
-    >>
-    >>>
-    >>>>
-    >>>>>
-    >>>>>>
-    ```
+
 - 无序列表
+  
     ```
     - 无序列表的顶级
         - 无序列表的下一级
             - ...
     ```
+
 - 链接
+  
     ```
     [文字](URL地址)
     ```
