@@ -12,6 +12,11 @@
 - 注册 `GitHub`，点击 Wiki 页面右上角的 `Edit on GitHub`，在网页版在线改进内容。
 - 阅读我们的文档：[文档](Tutorial/README.md)
 
+## 版权声明
+
+- 本组织所有非代码的文本内容遵循[知识共享 署名-非商业性使用-相同方式共享 3.0 (CC BY-NC-SA 3.0) 许可协议](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)
+- 本组织所有代码遵循 [MIT License](https://opensource.org/licenses/mit-license.php)
+
 ## 我们是谁？
 
 - [Ran-ying](https://github.com/Ran-ying)
