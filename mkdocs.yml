@@ -1,3 +1,50 @@
+nav:
+  - 语言学习:
+    - 目录: /List/语言学习/
+    - 俄语:
+      - 俄语语法: /Russian-Language-Studying/Russian Language Grammar/Grammar for Russian.html
+    - 物理:
+      - 牛顿力学: /Russian-Language-Studying/Physics/牛顿力学.html
+      - 分子物理学: /Russian-Language-Studying/Physics/分子物理学.html
+      - 电磁学: /Russian-Language-Studying/Physics/电磁学.html
+    - 化学:
+      - 无机化学基础: /Russian-Language-Studying/Chemistry/无机化学基础.html
+      - 物质结构基础: /Russian-Language-Studying/Chemistry/物质结构基础.html
+      - 化学计量基础: /Russian-Language-Studying/Chemistry/化学计量基础.html
+      - 化学反应原理: /Russian-Language-Studying/Chemistry/化学反应原理.html
+    - 数学:
+      - 实数运算: /Russian-Language-Studying/Math/实数运算.html
+      - 基本初等函数: /Russian-Language-Studying/Math/基本初等函数.html
+      - 指数和对数: /Russian-Language-Studying/Math/指数和对数.html
+    - 信息:
+      - 硬件: /Russian-Language-Studying/Information/hardware.html
+      - Excel: /Russian-Language-Studying/Information/Excel.html
+    - 工程制图:
+      - 制图标准: /Russian-Language-Studying/Engineering%20graphics/制图标准.html
+      - 图形几何学: /Russian-Language-Studying/Engineering%20graphics/图形几何学.html
+      - 点的三面投影: /Russian-Language-Studying/Engineering%20graphics/点的三面投影.html
+  - 预科课程: 
+    - 目录: /List/预科课程.html
+    - 物理:
+      - 预科物理: /Physics/预科物理.html
+      - 分子物理学与热力学教材: /Physics/分子物理学与热力学教材.html
+      - 单位: /Physics/单位.html
+    - 化学:
+      - 普通化学: /Chemistry/普通化学.html
+    - 数学:
+      - 预科数学: /Math/预科数学.html
+      - 高中数学: /Math/高中数学.html
+    - 信息:
+      - 预科信息: /Information/预科信息.html
+    - 工程制图:
+      - 工程制图: /Engineering%20graphics/工程制图.html
+  - 软件工程:
+    - 目录: /List/软件工程.html
+  - 友链: /friends.html
+
+
+
+
 site_name: Russian Natural Science Wiki
 site_url: https://itmo.ranying.xyz
 site_description: 这个 Wiki 是我们整理的关于在俄罗斯留学时理工科学习的知识汇总，这个网站欢迎大家来贡献和修改内容。
@@ -5,57 +52,27 @@ site_author: ICSG-Group
 repo_url: https://github.com/ITMO-Computer-Science-Group/Natural-Sciences-Wiki/
 repo_name: GitHub
 edit_uri: edit/main/
-nav:
-  - 语言学习:
-    - 目录: /List/语言学习/
-    - 俄语:
-      - 俄语语法: /Russian-Language-Studying/Russian Language Grammar/Grammar for Russian/
-    - 物理:
-      - 牛顿力学: /Russian-Language-Studying/Physics/牛顿力学/
-      - 分子物理学: /Russian-Language-Studying/Physics/分子物理学/
-      - 电磁学: /Russian-Language-Studying/Physics/电磁学/
-    - 化学:
-      - 无机化学基础: /Russian-Language-Studying/Chemistry/无机化学基础/
-      - 物质结构基础: /Russian-Language-Studying/Chemistry/物质结构基础/
-      - 化学计量基础: /Russian-Language-Studying/Chemistry/化学计量基础/
-      - 化学反应原理: /Russian-Language-Studying/Chemistry/化学反应原理/
-    - 数学:
-      - 实数运算: /Russian-Language-Studying/Math/实数运算/
-      - 基本初等函数: /Russian-Language-Studying/Math/基本初等函数/
-      - 指数和对数: /Russian-Language-Studying/Math/指数和对数/
-    - 信息:
-      - 硬件: /Russian-Language-Studying/Information/hardware/
-      - Excel: /Russian-Language-Studying/Information/Excel/
-    - 工程制图:
-      - 制图标准: /Russian-Language-Studying/Engineering%20graphics/制图标准/
-      - 图形几何学: /Russian-Language-Studying/Engineering%20graphics/图形几何学/
-      - 点的三面投影: /Russian-Language-Studying/Engineering%20graphics/点的三面投影/
-  - 预科课程: 
-    - 目录: /List/预科课程/
-    - 物理:
-      - 预科物理: /Physics/预科物理/
-      - 分子物理学与热力学教材: /Physics/分子物理学与热力学教材/
-      - 单位: /Physics/单位/
-    - 化学:
-      - 普通化学: /Chemistry/普通化学/
-    - 数学:
-      - 预科数学: /Math/预科数学/
-      - 高中数学: /Math/高中数学/
-    - 信息:
-      - 预科信息: /Information/预科信息/
-    - 工程制图:
-      - 工程制图: /Engineering%20graphics/工程制图/
-  - 软件工程:
-    - 目录: /List/软件工程/
-  - 友链: friends/
-
+use_directory_urls: false
 theme:
-  name: mkdocs
+  name: material
   navigation_depth: 6
-  custom_dir: theme/
-
-extra_css:
-- 'css/bootstrap.min.css'
+  language: zh
+  logo: theme/icon.jpg
+  favicon: theme/favicon.ico
+  features:
+    #- toc.integrate
+    #- navigation.tabs
+    #- navigation.tabs.sticky
+    #- navigation.indexes
+    #- navigation.expand
+    - navigation.sections
+    - navigation.top
+    - header.autohide
+  palette:
+    primary: deep purple
 
 extra_javascript:
-- 'mathjax/LaTeX.js'
+  - 'mathjax/LaTeX.js'
+
+plugins:
+  - search
