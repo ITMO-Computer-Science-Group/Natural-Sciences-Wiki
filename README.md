@@ -1,3 +1,9 @@
+--- 
+hide: 
+  #- navigation # Hide navigation 
+  - toc # Hide table of contents 
+---
+
 <img src="img/icsg.jpg" style="width:100%;"/>
 # 
 <span style="font-size:2em;font-style:bold;">欢迎来到 ICSG Wiki！</span>
