@@ -1,10 +1,10 @@
 <img src="img/icsg.jpg" style="width:100%;"/>
-
-<span style="font-size:2em;font-style:bold;">欢迎来到俄罗斯理工科留学知识体系的 Wiki！</span>
+# 
+<span style="font-size:2em;font-style:bold;">欢迎来到 ICSG Wiki！</span>
 
 ## 这是什么？
 
-这个项目有迹可考于2020年11月21日。这个 Wiki 是我们整理的关于在俄罗斯留学时理工科学习的知识汇总，这个网站欢迎大家来贡献和修改内容。
+这个项目有迹可考于2020年11月21日。这个 Wiki 是我们整理的关于在 ITMO 学习信息学的知识汇总，这个网站欢迎大家来贡献和修改内容。
 
 ## 参与到这个项目中
 
