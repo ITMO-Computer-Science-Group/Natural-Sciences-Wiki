@@ -4,8 +4,7 @@ hide:
   - toc # Hide table of contents 
 ---
 
-<img src="img/icsg.jpg" style="width:100%;"/>
-# 
+# 首页
 <span style="font-size:2em;font-style:bold;">欢迎来到 ICSG Wiki！</span>
 
 ## 这是什么？
@@ -15,12 +14,12 @@ hide:
 ## 参与到这个项目中
 
 - `Telegram` 群组：[Telegram](https://t.me/ICSG_Official)
-- 注册 `GitHub`，点击 Wiki 页面右上角的 `Edit on GitHub`，在网页版在线改进内容。
+- 注册 `GitHub`，点击 Wiki 页面右上角的修改按钮，在网页版在线改进内容。
 - 阅读我们的文档：[文档](Tutorial/README.md)
 
 ## 版权声明
 
-- 本组织所有非代码的文本内容遵循[知识共享 署名-非商业性使用-相同方式共享 3.0 (CC BY-NC-SA 3.0) 许可协议](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)
+- 本组织所有非代码的文本内容遵循 [CC BY-NC-SA 3.0 许可协议](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)
 - 本组织所有代码遵循 [MIT License](https://opensource.org/licenses/mit-license.php)
 
 ## 我们是谁？
@@ -30,6 +29,7 @@ hide:
 - [Tolia-GH](https://github.com/Tolia-GH)
 - [GreatTyron](https://github.com/GreatTyron)
 - [D-benlala](https://github.com/D-benlala)
+- [Ranzhu1](https://github.com/Ranzhu1)
 - [thesorrymaker](https://github.com/thesorrymaker)
 - [LIN020504](https://github.com/LIN020504)
 
@@ -47,6 +47,7 @@ hide:
 | 2021/3/1 | GitHub 组织成立，Preparatory-Courses, Specialized-Courses, Common-Courses 仓库成立，组织发展进入新时期 |
 | 2021/3/9 | [thesorrymaker](https://github.com/thesorrymaker), [LIN020504](https://github.com/LIN020504) 加入组织 |
 | 2021/3/14 | ICSG-Wiki 正式建立 |
+| 2021/3/16 | [Ranzhu1](https://github.com/Ranzhu1) 加入组织|
 
 ## 价值观念
 
