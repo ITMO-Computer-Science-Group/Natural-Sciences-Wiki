@@ -8,11 +8,6 @@
 ```
 # Title
 
-- [Grammar](#grammar)
-- [Word](#word)
-
-## Grammar
-
 ## Word
 
 | русский                 | 中文              |
