@@ -17,7 +17,7 @@ hide:
 - [Ran-ying](https://github.com/Ran-ying)
     - 大家好！
 - [Tolia-GH](https://github.com/Tolia-GH)
-    - ——一只进击的蒟蒻。
+    - 一只进击的蒟蒻。
 - [GreatTyron](https://github.com/GreatTyron)
 - [D-benlala](https://github.com/D-benlala)
 - [Ranzhu1](https://github.com/Ranzhu1)
