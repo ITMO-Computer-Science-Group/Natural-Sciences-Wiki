@@ -5,33 +5,30 @@ hide:
 ---
 
 # 首页
-<span style="font-size:2em;font-style:bold;">欢迎来到 ICSG Wiki！</span>
+<span style="font-size:2em;font-style:bold;">欢迎来到 ICS Wiki！</span>
 
 ## 这是什么？
 
-这个项目有迹可考于2020年11月21日。这个 Wiki 是我们整理的关于在 ITMO 学习信息学的知识汇总，这个网站欢迎大家来贡献和修改内容。
+这里是我们创建的包括但不限于 ITMO 计算机类专业知识的多人在线协作平台，这个网站欢迎大家来贡献和编辑内容。
+
+## 我们是谁？
+
+我们是由中国教育部留学基金委 (CSC) 派出至俄罗斯的留学生组成的组织
+- [Ran-ying](https://github.com/Ran-ying)
+    - 大家好！
+- [Tolia-GH](https://github.com/Tolia-GH)
+    - ——一只进击的蒟蒻。
+- [GreatTyron](https://github.com/GreatTyron)
+- [D-benlala](https://github.com/D-benlala)
+- [Ranzhu1](https://github.com/Ranzhu1)
+- [thesorrymaker](https://github.com/thesorrymaker)
+- [LIN020504](https://github.com/LIN020504)
 
 ## 参与到这个项目中
 
 - `Telegram` 群组：[Telegram](https://t.me/ICSG_Official)
 - 注册 `GitHub`，点击 Wiki 页面右上角的修改按钮，在网页版在线改进内容。
 - 阅读我们的文档：[文档](Tutorial/README.md)
-
-## 版权声明
-
-- 本组织所有非代码的文本内容遵循 [CC BY-NC-SA 3.0 许可协议](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)
-- 本组织所有代码遵循 [MIT License](https://opensource.org/licenses/mit-license.php)
-
-## 我们是谁？
-
-- [Ran-ying](https://github.com/Ran-ying)
-    - 大家好！
-- [Tolia-GH](https://github.com/Tolia-GH)
-- [GreatTyron](https://github.com/GreatTyron)
-- [D-benlala](https://github.com/D-benlala)
-- [Ranzhu1](https://github.com/Ranzhu1)
-- [thesorrymaker](https://github.com/thesorrymaker)
-- [LIN020504](https://github.com/LIN020504)
 
 ## 项目历程
 
@@ -59,3 +56,8 @@ hide:
 - 知识共享，共同进步 —— 我们建议将任何有价值的东西在公共领域（例如 `issue` 或者 `群聊`）进行共享，以达到共同进步的目的。
 - 求同存异，彼此接纳 —— 面对与自己不同的方法论时，请与其讨论并相互吸纳改进。
 - 与时俱进，不断学习 —— 及时跟随项目的技术栈，并认真研究学习，在技术前沿我们的技术栈是不断变化的。
+
+## 版权声明
+
+- 本组织所有非代码的文本内容遵循 [CC BY-NC-SA 3.0 许可协议](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)
+- 本组织所有代码遵循 [MIT License](https://opensource.org/licenses/mit-license.php)
