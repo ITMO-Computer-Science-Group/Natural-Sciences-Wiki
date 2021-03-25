@@ -1,26 +1,38 @@
-<img src="img/icsg.jpg" style="width:100%;"/>
+--- 
+hide: 
+  #- navigation # Hide navigation 
+  - toc # Hide table of contents 
+---
 
-<span style="font-size:2em;font-style:bold;">欢迎来到俄罗斯理工科留学知识体系的 Wiki！</span>
+# 首页
+<span style="font-size:2em;font-style:bold;">欢迎来到 ICS Wiki！</span>
 
 ## 这是什么？
 
-这个项目有迹可考于2020年11月21日。这个 Wiki 是我们整理的关于在俄罗斯留学时理工科学习的知识汇总，这个网站欢迎大家来贡献和修改内容。
+这个网站是基于这里是我们创建的包括但不限于 ITMO 计算机类专业知识的多人在线协作平台。
+
+
+
+<!---->
+
+## Maintainer
+
+<!--我们是由中国教育部留学基金委 (CSC) 派出至俄罗斯的留学生组成的组织-->
+- [染樱 (Ran-ying)](https://github.com/Ran-ying)
+    - 大家好！
+- [Tolia-GH](https://github.com/Tolia-GH)
+    - 一只进击的蒟蒻。
+- [GreatTyron](https://github.com/GreatTyron)
+- [D-benlala](https://github.com/D-benlala)
+- [Ranzhu1](https://github.com/Ranzhu1)
+- [thesorrymaker](https://github.com/thesorrymaker)
+- [LIN020504](https://github.com/LIN020504)
 
 ## 参与到这个项目中
 
 - `Telegram` 群组：[Telegram](https://t.me/ICSG_Official)
-- 注册 `GitHub`，点击 Wiki 页面右上角的 `Edit on GitHub`，在网页版在线改进内容。
+- 注册 `GitHub`，点击 Wiki 页面右上角的修改按钮，在网页版在线改进内容。
 - 阅读我们的文档：[文档](Tutorial/README.md)
-
-## 我们是谁？
-
-- [Ran-ying](https://github.com/Ran-ying)
-    - 大家好！
-- [Tolia-GH](https://github.com/Tolia-GH)
-- [GreatTyron](https://github.com/GreatTyron)
-- [D-benlala](https://github.com/D-benlala)
-- [thesorrymaker](https://github.com/thesorrymaker)
-- [LIN020504](https://github.com/LIN020504)
 
 ## 项目历程
 
@@ -36,6 +48,7 @@
 | 2021/3/1 | GitHub 组织成立，Preparatory-Courses, Specialized-Courses, Common-Courses 仓库成立，组织发展进入新时期 |
 | 2021/3/9 | [thesorrymaker](https://github.com/thesorrymaker), [LIN020504](https://github.com/LIN020504) 加入组织 |
 | 2021/3/14 | ICSG-Wiki 正式建立 |
+| 2021/3/16 | [Ranzhu1](https://github.com/Ranzhu1) 加入组织|
 
 ## 价值观念
 
@@ -47,3 +60,8 @@
 - 知识共享，共同进步 —— 我们建议将任何有价值的东西在公共领域（例如 `issue` 或者 `群聊`）进行共享，以达到共同进步的目的。
 - 求同存异，彼此接纳 —— 面对与自己不同的方法论时，请与其讨论并相互吸纳改进。
 - 与时俱进，不断学习 —— 及时跟随项目的技术栈，并认真研究学习，在技术前沿我们的技术栈是不断变化的。
+
+## 版权声明
+
+- 本组织所有非代码的文本内容遵循 [CC BY-NC-SA 3.0 许可协议](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)
+- 本组织所有代码遵循 [MIT License](https://opensource.org/licenses/mit-license.php)

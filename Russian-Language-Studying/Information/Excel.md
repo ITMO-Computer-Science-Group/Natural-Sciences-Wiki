@@ -1,7 +1,5 @@
 # Excel
 
-- [Word](#word)
-
 ## Word
 
 | русский                 | 中文              |
