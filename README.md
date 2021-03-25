@@ -9,15 +9,12 @@ hide:
 
 ## 这是什么？
 
-这个网站是基于这里是我们创建的包括但不限于 ITMO 计算机类专业知识的多人在线协作平台。
+这是一个关于俄罗斯留学和计算机科学的 Wiki，由公派至 ITMO 的部分成员进行维护。
 
-
-
-<!---->
+<!--派出至俄罗斯的留学生组成的组织 来自 CSC（中国教育部留学基金委）的-->
 
 ## Maintainer
 
-<!--我们是由中国教育部留学基金委 (CSC) 派出至俄罗斯的留学生组成的组织-->
 - [染樱 (Ran-ying)](https://github.com/Ran-ying)
     - 大家好！
 - [Tolia-GH](https://github.com/Tolia-GH)
@@ -28,7 +25,7 @@ hide:
 - [thesorrymaker](https://github.com/thesorrymaker)
 - [LIN020504](https://github.com/LIN020504)
 
-## 参与到这个项目中
+## 参与和贡献这个 Wiki
 
 - `Telegram` 群组：[Telegram](https://t.me/ICSG_Official)
 - 注册 `GitHub`，点击 Wiki 页面右上角的修改按钮，在网页版在线改进内容。

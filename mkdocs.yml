@@ -61,4 +61,7 @@ extra_javascript:
   - /mathjax/LaTeX.js
 
 plugins:
-  - search
+  - search:
+      lang:
+        - en
+        - ru
