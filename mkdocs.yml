@@ -43,7 +43,7 @@ theme:
   name: material
   navigation_depth: 6
   language: zh
-  logo: /theme/icon.jpg
+  logo: /theme/icon.png
   favicon: /theme/favicon.ico
   features:
     #- toc.integrate

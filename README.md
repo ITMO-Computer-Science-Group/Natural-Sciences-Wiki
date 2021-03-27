@@ -3,6 +3,34 @@ hide:
   #- navigation # Hide navigation 
   - toc # Hide table of contents 
 ---
+<style>
+    .headpic{
+        width: 80px;
+        height: 80px;
+        background-size: cover;
+        border-radius: 40px;
+        border: 3px solid black;
+        display: inline-block;
+        margin: auto;
+    }
+    .headpicPanel {
+        width: 100%;
+        float: left;
+    }
+    .headpicPanel>div{
+        width: 160px;
+        height: 200px;
+        float: left;
+        word-wrap: break-word;
+        word-break: break-all;
+        border-radius: 20px;
+        border: 2px solid black;
+        margin: 2px;
+    }
+    .headpicPanel>div>center{
+        margin: 4px;
+    }
+</style>
 
 # 首页
 <span style="font-size:2em;font-style:bold;">欢迎来到 RNS Wiki！</span>
@@ -18,16 +46,66 @@ hide:
 ## 贡献人员
 
 ### ICSG 成员：
->- [染樱 (Ran-ying)](https://github.com/Ran-ying)  
->大家好！  
->- [托利亚 (Tolia-GH)](https://github.com/Tolia-GH)  
->一只进击的蒟蒻  
->- [GreatTyron](https://github.com/GreatTyron)  
->- [D-benlala](https://github.com/D-benlala)  
->- [Ranzhu1](https://github.com/Ranzhu1)  
->- [thesorrymaker](https://github.com/thesorrymaker)  
->- [LIN020504](https://github.com/LIN020504)  
->- [Yun-4439](https://github.com/Yun-4439)  
+
+<div class="headpicPanel">
+    <div>
+        <center>
+            <div class="headpic" style="background-image: url('img/headpic/Ran-ying.png');"></div><br />
+            <a href="https://github.com/Ran-ying">染樱 (Ran-ying)</a>
+        </center>
+        <span>很惭愧，只做了一点微小的工作。</span>
+    </div>
+    <div>
+        <center>
+            <div class="headpic" style="background-image: url('img/headpic/Tolia-GH.jpg');"></div><br />
+            <a href="https://github.com/Tolia-GH">托利亚 (Tolia-GH)</a>
+        </center>
+        <span>一只进击的蒟蒻 </span> 
+    </div>
+    <div>
+        <center>
+            <div class="headpic" style="background-image: url('img/headpic/GreatTyron.jpg');"></div><br />
+            <a href="https://github.com/">GreatTyron</a>
+        </center>
+        <span></span> 
+    </div>
+    <div>
+        <center>
+            <div class="headpic" style="background-image: url('img/headpic/D-benlala.png');"></div><br />
+            <a href="https://github.com/">D-benlala</a>
+        </center>
+        <span></span>
+    </div>
+    <div>
+        <center>
+            <div class="headpic" style="background-image: url('img/headpic/Ranzhu1.jpg');"></div><br />
+            <a href="https://github.com/Ranzhu1">Ranzhu1</a>
+        </center>
+        <span></span>  
+    </div>
+    <div>
+        <center>
+            <div class="headpic" style="background-image: url('img/headpic/thesorrymaker.jpg');"></div><br />
+            <a href="https://github.com/thesorrymaker">thesorrymaker</a>
+        </center>
+        <span></span>  
+    </div>
+    <div>
+        <center>
+            <div class="headpic" style="background-image: url('img/headpic/LIN020504.png');"></div><br />
+            <a href="https://github.com/LIN020504">LIN020504</a>
+        </center>
+        <span></span>  
+    </div>
+    <div>
+        <center>
+            <div class="headpic" style="background-image: url('img/headpic/Yun-4439.jpg');"></div><br />
+            <a href="https://github.com/Yun-4439">Yun-4439</a>
+        </center>
+        <span></span>  
+    </div>
+</div>
+
 
 ### 编外贡献者：
 >- `@桂小方`  
@@ -58,7 +136,7 @@ hide:
 | 2021/3/14 | ICS-Wiki 正式建立，ICSG 组织委员会成立，[染樱 (Ran-ying)](https://github.com/Ran-ying) 任 ICSG 组织委员会总书记 |
 | 2021/3/15 | GitHub 仓库重构：废除 Common-Courses 仓库，Russian-Language-Studying, Preparatory-Courses, Specialized-Courses 仓库合并为 Natural-Sciences-Wiki 仓库 |
 | 2021/3/16 | [Ranzhu1](https://github.com/Ranzhu1) 加入组织 |
-| 2021/3/26 | [Yun-4439](https://github.com/Yun-4439) 加入组织，任命 [托利亚 (Tolia-GH)](https://github.com/Tolia-GH) 为 ICSG 组织委员会委员 |
+| 2021/3/26 | [Yun-4439](https://github.com/Yun-4439) 加入组织；[托利亚 (Tolia-GH)](https://github.com/Tolia-GH)被任命为 ICSG 组织委员会委员 |
 | 2021/3/28 | ICSG 任务管理系统建立并首次投入使用，ICSG-System 初步建立 |
 
 ## 价值观念
