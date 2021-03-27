@@ -51,7 +51,7 @@ hide:
 | 2020/12/10 | Russian-Language-Studying 仓库成立 |
 | 2020/12/29 | Daily Words 开始 |
 | 2021/1/11 | [Great-Tyron](https://github.com/GreatTyron) 加入组织 |
-| 2021/2/1 | 内容生产-消费模型建立，项目发展理论基础更加坚实 |
+| 2021/2/1 | 内容生产-消费模型建立，组织发展理论基础更加坚实 |
 | 2021/2/11 | [托利亚 (Tolia-GH)](https://github.com/Tolia-GH) 加入组织 |
 | 2021/3/1 | GitHub 组织成立，Specialized-Courses, Common-Courses 仓库成立，Russian-Language-Studying 仓库划分为 Preparatory-Courses, Russian-Language-Studying 仓库，组织发展进入新时期 |
 | 2021/3/9 | [thesorrymaker](https://github.com/thesorrymaker), [LIN020504](https://github.com/LIN020504) 加入组织 |
@@ -59,7 +59,7 @@ hide:
 | 2021/3/15 | GitHub 仓库重构：废除 Common-Courses 仓库，Russian-Language-Studying, Preparatory-Courses, Specialized-Courses 仓库合并为 Natural-Sciences-Wiki 仓库 |
 | 2021/3/16 | [Ranzhu1](https://github.com/Ranzhu1) 加入组织 |
 | 2021/3/26 | [Yun-4439](https://github.com/Yun-4439) 加入组织，任命 [托利亚 (Tolia-GH)](https://github.com/Tolia-GH) 为 ICSG 组织委员会委员 |
-| 2021/3/28 | ICSG 任务管理系统建立并首次投入使用，ICSG-System 初步建立 |
+| 2021/3/28 | ICSG 任务管理系统建立并投入使用，ICSG-System 初步建立 |
 
 ## 价值观念
 
