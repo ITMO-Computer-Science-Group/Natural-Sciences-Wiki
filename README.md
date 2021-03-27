@@ -53,18 +53,14 @@ hide:
             <div class="headpic" style="background-image: url('img/headpic/Ran-ying.jpg');"></div><br />
             <a href="https://github.com/Ran-ying">染樱 (Ran-ying)</a>
         </center>
-        <center>
         <span>很惭愧，只做了一点微小的工作。</span>
-        </center>
     </div>
     <div>
         <center>
             <div class="headpic" style="background-image: url('img/headpic/Tolia-GH.jpg');"></div><br />
             <a href="https://github.com/Tolia-GH">托利亚 (Tolia-GH)</a>
         </center>
-        <center>
         <span>一只进击的蒟蒻 </span> 
-        </center>
     </div>
     <div>
         <center>
