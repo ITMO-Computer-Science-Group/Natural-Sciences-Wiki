@@ -5,7 +5,7 @@ hide:
 ---
 
 # 首页
-<span style="font-size:2em;font-style:bold;">欢迎来到 ICS Wiki！</span>
+<span style="font-size:2em;font-style:bold;">欢迎来到 RNS Wiki！</span>
 
 ## 这是什么？
 这是一个由 ICSG 组织在俄罗斯公派留学过程中创建并且维护的 Wiki（即多人在线协作的知识平台），这个 Wiki 的内容计划包含从高中到预科再到本科的各种知识的整理，以及对应的俄语语言知识。如果您有兴趣，我们欢迎您[参与贡献这个Wiki](#参与贡献这个-wiki)。
