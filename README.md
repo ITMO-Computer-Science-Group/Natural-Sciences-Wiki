@@ -33,7 +33,7 @@ hide:
     - 加入`Telegram` 讨论群组：[Telegram](https://t.me/ICSG_Official)
 - 想要编辑我们的内容？
     - 登录您的 `GitHub`账号，点击 Wiki 页面右上角的修改按钮，在网页版在线编辑内容。
-- 更多详情请阅读我们的文档：[文档](Tutorial/README.md)
+- 更多详情请阅读我们的文档：[文档](Tutorial/readme.md)
 
 ## 项目历程
 
