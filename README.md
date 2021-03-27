@@ -5,7 +5,7 @@ hide:
 ---
 
 # 首页
-<span style="font-size:2em;font-style:bold;">欢迎来到 ICS Wiki！</span>
+<span style="font-size:2em;font-style:bold;">欢迎来到 RNS Wiki！</span>
 
 ## 这是什么？
 
