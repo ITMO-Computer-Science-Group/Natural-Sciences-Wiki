@@ -9,7 +9,7 @@ hide:
 
 ## 这是什么？
 
-这是我们创建并维护的 Wiki（即多人在线协作的知识平台），这个 Wiki 目前仍在持续开发中，其内容计划包含从高中到预科再到本科的各种知识的整理，以及对应的俄语语言知识。如果您有兴趣，我们欢迎您[参与贡献这个Wiki](#参与贡献这个-wiki)。
+这是我们创建并维护的 Wiki（即多人在线协作的知识平台），这个 Wiki 目前仍在持续开发中，其内容计划包含从高中到预科再到本科的各种知识的整理，以及对应的俄语语言知识。如果您有兴趣，我们欢迎您 [参与贡献这个Wiki](#参与贡献这个-wiki)。
 
 ## 我们是谁？
 
@@ -31,16 +31,16 @@ hide:
 
 ### 编外贡献者：
 >- `@桂小方`  
->在群聊中为 ICSG 任务管理系统提供了初步想法
+>在群聊中为 ICSG 任务管理系统提供了想法
 
 ## 参与贡献这个 Wiki
 
 - 想要提出建议或想法？
-    - 加入`Telegram` 讨论群组：[Telegram](https://t.me/ICSG_Official)
-    - 如果您了解 `GitHub`，可以在 GitHub 上为提出 [issue](https://github.com/ITMO-Computer-Science-Group/Natural-Sciences-Wiki/issues)
+    - 加入 `Telegram` 讨论群组：[Telegram](https://t.me/ICSG_Official)
+    - 如果您了解 `GitHub`，可以在 GitHub 上提出 [issue](https://github.com/ITMO-Computer-Science-Group/Natural-Sciences-Wiki/issues)
 - 想要编辑我们的内容？
-    - 登录您的 `GitHub`账号，点击 Wiki 页面右上角的修改按钮，在线编辑内容。
-- 更多详情请阅读我们的[文档](Tutorial/README.md)
+    - 登录您的 `GitHub` 账号，点击 Wiki 页面右上角的修改按钮，在线编辑内容。
+- 更多详情请阅读我们的 [文档](Tutorial/README.md)
 
 ## 项目历程
 
