@@ -8,13 +8,11 @@ hide:
 <span style="font-size:2em;font-style:bold;">欢迎来到 ICS Wiki！</span>
 
 ## 这是什么？
+这是一个由 ICSG 组织在俄罗斯公派留学过程中创建并且维护的 Wiki（即多人在线协作的知识平台），这个 Wiki 的内容计划包含从高中到预科再到本科的各种知识的整理，以及对应的俄语语言知识。如果您有兴趣，我们欢迎您[参与贡献这个Wiki](#参与贡献这个-wiki)。
 
-这是一个关于俄罗斯留学和计算机科学的 Wiki，由公派至 ITMO 的部分成员进行维护。
+## 贡献人员
 
-<!--派出至俄罗斯的留学生组成的组织 来自 CSC（中国教育部留学基金委）的-->
-
-## Maintainer
-
+### ICSG 组织成员：
 - [染樱 (Ran-ying)](https://github.com/Ran-ying)
     - 大家好！
 - [Tolia-GH](https://github.com/Tolia-GH)
@@ -24,12 +22,18 @@ hide:
 - [Ranzhu1](https://github.com/Ranzhu1)
 - [thesorrymaker](https://github.com/thesorrymaker)
 - [LIN020504](https://github.com/LIN020504)
+- [Yun-4439](https://github.com/Yun-4439)
 
-## 参与和贡献这个 Wiki
+### 编外贡献者：
+- @桂小方 - 在群聊中为 ICSG 任务管理系统提供了想法
 
-- `Telegram` 群组：[Telegram](https://t.me/ICSG_Official)
-- 注册 `GitHub`，点击 Wiki 页面右上角的修改按钮，在网页版在线改进内容。
-- 阅读我们的文档：[文档](Tutorial/README.md)
+## 参与贡献这个 Wiki
+
+- 想要提出建议或想法？
+    - 加入`Telegram` 讨论群组：[Telegram](https://t.me/ICSG_Official)
+- 想要编辑我们的内容？
+    - 登录您的 `GitHub`账号，点击 Wiki 页面右上角的修改按钮，在网页版在线编辑内容。
+- 更多详情请阅读我们的文档：[文档](Tutorial/README.md)
 
 ## 项目历程
 
@@ -45,7 +49,8 @@ hide:
 | 2021/3/1 | GitHub 组织成立，Preparatory-Courses, Specialized-Courses, Common-Courses 仓库成立，组织发展进入新时期 |
 | 2021/3/9 | [thesorrymaker](https://github.com/thesorrymaker), [LIN020504](https://github.com/LIN020504) 加入组织 |
 | 2021/3/14 | ICSG-Wiki 正式建立 |
-| 2021/3/16 | [Ranzhu1](https://github.com/Ranzhu1) 加入组织|
+| 2021/3/16 | [Ranzhu1](https://github.com/Ranzhu1) 加入组织 |
+| 2021/3/26 | [Yun-4439](https://github.com/Yun-4439) 加入组织 |
 
 ## 价值观念
 
