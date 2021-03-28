@@ -189,6 +189,7 @@
     |名称|效果|源码|
     |-|-|-|
     | 分式  | $\frac{x}{y}$                      | \frac{x}{y}     |
+    | 绝对值 | $\lvert a\rvert$                          || \lvert a\rvert |
     | 根号  | $\sqrt{x}$                           | \sqrt{x}        |
     | 多次根 | $\sqrt[b]{a}$                      | \sqrt[b]{a}     |
     | 多次方 | $a^{b}$                              | a^{b}           |
