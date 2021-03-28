@@ -14,10 +14,20 @@ hide:
         margin: auto;
     }
     .headpicPanel {
-        width: 100%;
         float: left;
+        width: 100%;
     }
-    .headpicPanel>div{
+    @media screen and (min-width: 1000px) {
+        .headpicPanel>div {
+            width: 700px;
+        }
+    }
+    @media screen and (max-width: 999px) {
+        .headpicPanel>div {
+            width: 100%;
+        }
+    }
+    .headpicPanel>div>div{
         width: 160px;
         height: 200px;
         float: left;
@@ -27,7 +37,7 @@ hide:
         border: 2px solid black;
         margin: 2px;
     }
-    .headpicPanel>div>center{
+    .headpicPanel>div>div>center{
         margin: 4px;
     }
 </style>
@@ -48,6 +58,7 @@ hide:
 ### ICSG 成员：
 
 <div class="headpicPanel">
+<div>
     <div>
         <center>
             <div class="headpic" style="background-image: url('img/headpic/Ran-ying.jpg');"></div><br />
@@ -104,6 +115,7 @@ hide:
         </center>
         <span></span>  
     </div>
+</div>
 </div>
 
 
