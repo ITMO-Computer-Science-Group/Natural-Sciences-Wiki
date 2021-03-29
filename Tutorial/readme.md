@@ -28,7 +28,7 @@
 
 1. 注册 [GitHub 账号](https://github.com/)
 2. 打开 [Wiki 仓库地址](https://github.com/ITMO-Computer-Science-Group/Natural-Sciences-Wiki)
-3. 点击 Add file，在下拉选项中点击 Create new file
+3. 点击 Add file，在下拉选项中点击 `Create new file`
 4. 此时您将会看到两个文本框：
     1. 目录文本框：“Natural-Science-Wiki/Name your file in ITMO-Computer-Science-Group:main”，此时将  `Name your file` 改成想要提交的目录位置（如果这个科目还没有被建立），或者在 [Wiki 仓库](https://github.com/ITMO-Computer-Science-Group/Natural-Sciences-Wiki)打开指定的目录，此处即可不用填写。
     2. 文件内容文本框：在这里用 `Markdown` 和 `LaTeX` 编写文件
@@ -40,7 +40,7 @@
 
 ## 您需要掌握哪些技术？
 
-### 本仓库的文件标准
+### 1. 本仓库的文件标准
 
 我们的标准很简单：
 
@@ -51,17 +51,19 @@
 
 我们给出一个一般模板：
 
-- 样式
-    ># 文件标题
-    >
-    >## 第一级内容标题
-    >
-    >### 第二级内容标题
-    >
-    >- 主干内容
-    >    - 分支内容
-    >        - 次级分支内容
-- 源码
+样式
+># 文件标题
+>
+>## 第一级内容标题
+>
+>### 第二级内容标题
+>
+>- 主干内容
+>    - 分支内容
+>        - 次级分支内容
+
+源码
+
     ```
     # 文件标题
 
@@ -76,9 +78,9 @@
     ```
 标准的具体实现可以参考我们已经做出的文件
 
-### Markdown
+### 2. Markdown
 
-`Markdown` 是一个轻量化的文本排版语言，不同于 Word 等软件，Markdown 没有太多的富文本格式其内容形式多样，语法简单，并且十分容易上手。  
+`Markdown` 是一个轻量化的文本排版语言，不同于 Word 等文档排版，Markdown 没有太多的富文本格式，但其内容形式多样，语法简单，并且十分容易上手。  
 以下是一个 GitHub Flavored Markdown 的简单教程，只收录了和本 Wiki 编辑有关的部分内容。如果想要了解更多，请自行查找 GitHub Flavored Markdown 的相关资料。
 
 - 标题
@@ -168,10 +170,10 @@
                 ```
         
 
-### LaTeX
+### 3. LaTeX
 
-`LaTeX` 是基于 Tex 的一个十分强大的文字排版语言，其内容极为丰富，但是语法较为复杂，使用门槛较高，因此我们只取用其公式部分的语法，以弥补原生 Markdown 不支持公式显示的缺陷。  
-这里给出了部分常用的 LaTeX 公式语法，我们使用这种方式在网页上表示复杂公式。
+`LaTeX` 是基于 Tex 的一个十分强大的文字排版语言，其内容极为丰富，但是语法较为复杂，学习门槛较高，因此我们只取用其公式部分的语法，以弥补原生 Markdown 不支持公式显示的缺陷。  
+这里给出了部分常用的 LaTeX 公式语法，我们使用这种方式在网页上表示公式及符号。
 
 - 公式的插入
     - 行内公式：在正文文本中插入的公式
@@ -197,16 +199,28 @@
     | 求和  | $\sum_{n=1}^{20}$               | \sum_{n=1}^{20} |
     | 极限  | $\underset{x\rightarrow\infty}{\lim}$  | \underset{x\rightarrow\infty}{\lim} |
 
-- 运算符号
+- 常用符号
 
-    |效果|源码|
-    |-|-|
-    | $\times$    | \times |
-    | $\div$    | \div    |
-    | $\cdot$  | \cdot   |
-    | $\approx$ | \approx |
-    | $\neq$    | \neq    |
-    | $\equiv$  | \equiv  |
+    |名称|效果|源码|
+    |-|-|-|
+    | 无穷 | $\infty$ | \infty |
+    | 正负号 | $\pm$ $\mp$ | \pm \mp |
+    | 乘号 | $\times$    | \times |
+    | 除号 | $\div$    | \div    |
+    | 点乘号 | $\cdot$  | \cdot   |
+    | 角度 | $\degree$ | \degree |
+    | 成比例 | $\propto$ | \propto |
+    | 约等于号 | $\approx$ | \approx |
+    | 不等于号 | $\neq$    | \neq    |
+    | 同余号 | $\equiv$  | \equiv  |
+    | 向右单/双箭头 | $\rightarrow$ $\Rightarrow$ | \rightarrow \Rightarrow |
+    | 左右单/双箭头 | $\leftrightarrow$ $\Leftrightarrow$ | \leftrightarrow \Leftrightarrow |
+    | 包含于/包含 | $\in$ $\ni$ | \in \ni |
+    | 任取 | $\forall$ | \forall |
+    | 存在/不存在 | $\exists$ $\nexists$ | \exists \nexists |
+    | 并集 | $\cup$ | \cup |
+    | 交集 | $\cap$ | \cap |
+    | 补集 | $\complement$ | \complement |
 
 - 希腊字母
 
