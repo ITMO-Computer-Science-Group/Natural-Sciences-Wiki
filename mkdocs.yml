@@ -12,8 +12,8 @@ nav:
   - 预科课程: 
     - 目录: /List/预科课程.html
     - 物理:
-      - 预科物理: /Physics/预科物理.html
-      - 分子物理学与热力学教材: /Physics/分子物理学与热力学教材.html
+      - 预科物理: /Physics/预科物理课件.html
+      - 分子物理学与热力学教材: /Physics/预科物理教材.html
       - 单位: /Physics/单位.html
     - 化学:
       - 普通化学: /Chemistry/普通化学.html
@@ -22,10 +22,14 @@ nav:
       - 高中数学: /Math/高中数学.html
     - 信息:
       - 预科信息: /Information/预科信息.html
+    - 历史:
+      - 关于俄罗斯与俄罗斯人: /History/关于俄罗斯与俄罗斯人.html
+      - 在俄罗斯学习与生活: /History/在俄罗斯学习与生活.html
     - 工程制图:
       - 工程制图: /Engineering%20graphics/工程制图.html
   - 软件工程:
     - 目录: /List/软件工程.html
+    - Java: /Java/Java教材.html
   - 友链: /friends.html
 
 
@@ -43,7 +47,7 @@ theme:
   name: material
   navigation_depth: 6
   language: zh
-  logo: /theme/icon.jpg
+  logo: /theme/icon.png
   favicon: /theme/favicon.ico
   features:
     #- toc.integrate
