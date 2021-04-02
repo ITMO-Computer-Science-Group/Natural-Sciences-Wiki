@@ -213,6 +213,7 @@
     | 除号 | $\div$    | \div    |
     | 点乘号 | $\cdot$  | \cdot   |
     | 角度 | $\degree$ | \degree |
+    | 单波浪线 | $\sim$ | \sim |
     | 成比例 | $\propto$ | \propto |
     | 约等于号 | $\approx$ | \approx |
     | 不等于号 | $\neq$    | \neq    |
