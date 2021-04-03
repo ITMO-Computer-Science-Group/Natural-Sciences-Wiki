@@ -280,3 +280,13 @@
     |名称|效果|源码|
     |-|-|-|
     ||$\underbrace{jack}_{4}$|\underbrace{jack}_{4}|
+
+<!--
+
+【信息】Excel 08 + [range]
+File: Excel_Task_0.8-2021-03-27.doc
+Range: all
+Target knowledge File：Information/预科信息.md
+target grammar file: ...
+
+-->
