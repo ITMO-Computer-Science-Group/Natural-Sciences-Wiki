@@ -174,10 +174,10 @@
                 ```
         
 
-### 2. LaTeX
+### 2. $\LaTeX$
 
-`LaTeX` 是基于 Tex 的一个十分强大的文字排版语言，其内容极为丰富，但是语法较为复杂，学习门槛较高，因此我们只取用其公式部分的语法，以弥补原生 Markdown 不支持公式显示的缺陷。  
-这里给出了部分常用的 LaTeX 公式语法，我们使用这种方式在网页上表示公式及符号。
+$\LaTeX$ 是基于 `Tex` 的一个十分强大的文字排版语言，其内容极为丰富，但是语法较为复杂，学习门槛较高，因此我们只取用其公式部分的语法，以弥补原生 Markdown 不支持公式显示的缺陷。  
+这里给出了部分常用的 $\LaTeX$ 公式语法，我们使用这种方式在网页上表示公式及符号。
 
 - 公式的插入
     - 行内公式：在正文文本中插入的公式
@@ -188,20 +188,33 @@
         - $$这是一个独行公式$$
         - 源码：
         - `$$这是一个独行公式$$`
+
+- 公式中的空格分隔
+    - 需要注意的是，在 $\LaTeX$ 源码中的空格不会在公式渲染后显示，一般来说，$\LaTeX$ 源码中的空格仅用于分割代码字段，例如这就是一个例子：
+        - 源码：`$这是   一个    公  式$`
+        - 效果：$这是   一个    公  式$
+    - 如果要使用空格分隔公式内容，有以下写法：
+        - 短空行：`\quad`
+            - 源码：`$这是\quad一个\quad公\quad式$`
+            - 效果：$这是\quad一个\quad公\quad式$
+        - 长空行：`\qquad`
+            - 源码：`$这是\qquad一个\qquad公\qquad式$`
+            - 效果：$这是\qquad一个\qquad公\qquad式$
+    - 规范：一般对于公式与其公式编号（如果有的话），之间用 `\qquad` 分隔，对于一般的公式见间隔，使用`\quad`即可，具体根据实际情况判断
     
 
 - 一般公式：
 
     |名称|效果|源码|
     |-|-|-|
-    | 分式  | $\frac{x}{y}$                      | \frac{x}{y}     |
-    | 绝对值 | $\lvert a\rvert$                          || \lvert a\rvert |
-    | 根号  | $\sqrt{x}$                           | \sqrt{x}        |
-    | 多次根 | $\sqrt[b]{a}$                      | \sqrt[b]{a}     |
-    | 多次方 | $a^{b}$                              | a^{b}           |
-    | 积分  | $\int_{a}^{b}$                     | \int_{a}^{b}    |
-    | 求和  | $\sum_{n=1}^{20}$               | \sum_{n=1}^{20} |
-    | 极限  | $\underset{x\rightarrow\infty}{\lim}$  | \underset{x\rightarrow\infty}{\lim} |
+    | 分式 | $\frac{x}{y}$ | \frac{x}{y} |
+    | 绝对值 | $\lvert a\rvert$ | \lvert a\rvert |
+    | 根号  | $\sqrt{x}$ | \sqrt{x} |
+    | 多次根 | $\sqrt[b]{a}$ | \sqrt[b]{a} |
+    | 多次方 | $a^{b}$ | a^{b} |
+    | 积分  | $\int_{a}^{b}$ | \int_{a}^{b} |
+    | 求和  | $\sum_{n=1}^{20}$ | \sum_{n=1}^{20} |
+    | 极限  | $\underset{x\rightarrow\infty}{\lim}$ | \underset{x\rightarrow\infty}{\lim} |
 
 - 常用符号
 
@@ -209,14 +222,15 @@
     |-|-|-|
     | 无穷 | $\infty$ | \infty |
     | 正负号 | $\pm$ $\mp$ | \pm \mp |
-    | 乘号 | $\times$    | \times |
-    | 除号 | $\div$    | \div    |
-    | 点乘号 | $\cdot$  | \cdot   |
+    | 乘号 | $\times$ | \times |
+    | 除号 | $\div$ | \div |
+    | 点乘号 | $\cdot$ | \cdot |
     | 角度 | $\degree$ | \degree |
+    | 单波浪线 | $\sim$ | \sim |
     | 成比例 | $\propto$ | \propto |
     | 约等于号 | $\approx$ | \approx |
-    | 不等于号 | $\neq$    | \neq    |
-    | 同余号 | $\equiv$  | \equiv  |
+    | 不等于号 | $\neq$ | \neq |
+    | 同余号 | $\equiv$ | \equiv |
     | 向右单/双箭头 | $\rightarrow$ $\Rightarrow$ | \rightarrow \Rightarrow |
     | 左右单/双箭头 | $\leftrightarrow$ $\Leftrightarrow$ | \leftrightarrow \Leftrightarrow |
     | 包含于/包含 | $\in$ $\ni$ | \in \ni |
@@ -279,7 +293,10 @@
 
     |名称|效果|源码|
     |-|-|-|
-    ||$\underbrace{jack}_{4}$|\underbrace{jack}_{4}|
+    | |$\underbrace{jack}_{4}$|\underbrace{jack}_{4}|
+    | 一般括号 | $(\frac{\frac{a}{b}}{c})$ | () |
+    | 自适应括号 | $\left(\frac{\frac{a}{b}}{c}\right)$ | \left(\right) |
+
 
 <!--
 
