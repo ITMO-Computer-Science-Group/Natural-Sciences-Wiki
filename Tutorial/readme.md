@@ -296,3 +296,14 @@ $\LaTeX$ 是基于 `Tex` 的一个十分强大的文字排版语言，其内容�
     | |$\underbrace{jack}_{4}$|\underbrace{jack}_{4}|
     | 一般括号 | $(\frac{\frac{a}{b}}{c})$ | () |
     | 自适应括号 | $\left(\frac{\frac{a}{b}}{c}\right)$ | \left(\right) |
+
+
+<!--
+
+【信息】Excel 08 + [range]
+File: Excel_Task_0.8-2021-03-27.doc
+Range: all
+Target knowledge File：Information/预科信息.md
+target grammar file: ...
+
+-->
