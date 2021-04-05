@@ -2,7 +2,6 @@ nav:
   - 语言学习:
     - 俄语:
       - 俄语语法: /Russian-Language-Studying/Russian Language Grammar/Grammar for Russian.html
-      - 理工科俄语: /Russian-Language-Studying/Russian Language Grammar/理工科俄语.html
     - 物理: 
       - 预科物理: /Russian-Language-Studying/Physics/预科物理.Grammar.html
     - 化学:
@@ -12,9 +11,9 @@ nav:
   - 预科课程: 
     - 目录: /List/预科课程.html
     - 物理:
-      - 预科物理: /Physics/预科物理课件.html
-      - 分子物理学与热力学教材: /Physics/预科物理教材.html
-      - 单位: /Physics/单位.html
+      - 预科物理课件: /Physics/预科物理课件.html
+      - 预科物理教材: /Physics/预科物理教材.html
+      - 热力学公式总结: /Physics/热力学公式总结
     - 化学:
       - 普通化学: /Chemistry/普通化学.html
     - 数学:
@@ -30,6 +29,7 @@ nav:
   - 软件工程:
     - 目录: /List/软件工程.html
     - Java: /Java/Java教材.html
+    - 离散数学: 
   - 友链: /friends.html
 
 
@@ -69,3 +69,4 @@ plugins:
       lang:
         - en
         - ru
+        - ja
