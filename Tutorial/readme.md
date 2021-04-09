@@ -231,15 +231,16 @@ $\LaTeX$ 是基于 `Tex` 的一个十分强大的文字排版语言，其内容�
     | 点乘号 | $\cdot$ | \cdot |
     | 角度 | $\degree$ | \degree |
     | 单波浪线 | $\sim$ | \sim |
-    | 成比例 | $\propto$ | \propto |
     | 约等于号 | $\approx$ | \approx |
+    | 成比例 | $\propto$ | \propto |
+    | 大于等于 & 小与等于| $\ge$ $\le$ | \ge \le |
     | 不等于号 | $\neq$ | \neq |
     | 同余号 | $\equiv$ | \equiv |
     | 向右单/双箭头 | $\rightarrow$ $\Rightarrow$ | \rightarrow \Rightarrow |
     | 左右单/双箭头 | $\leftrightarrow$ $\Leftrightarrow$ | \leftrightarrow \Leftrightarrow |
-    | 包含于/包含 | $\in$ $\ni$ | \in \ni |
+    | 包含于 & 包含 | $\in$ $\ni$ | \in \ni |
     | 任取 | $\forall$ | \forall |
-    | 存在/不存在 | $\exists$ $\nexists$ | \exists \nexists |
+    | 存在 & 不存在 | $\exists$ $\nexists$ | \exists \nexists |
     | 并集 | $\cup$ | \cup |
     | 交集 | $\cap$ | \cap |
     | 补集 | $\complement$ | \complement |
