@@ -80,12 +80,16 @@
 
 ### 2. git message 标准
 
+- 对于处于 `ICSG 任务系统` 中的任务提交，
+
 ## 您需要了解哪些技术？
+
+### 本 Wiki 网页渲染流程（只需了解即可）
 
 ### 1. Markdown
 
 `Markdown` 是一个轻量化的文本排版语言，不同于 Word 等文档排版，Markdown 没有太多的富文本格式，但其内容形式多样，语法简单，并且十分容易上手。  
-以下是一个 GitHub Flavored Markdown 的简单教程，只收录了和本 Wiki 编辑有关的部分内容。如果想要了解更多，请自行查找 GitHub Flavored Markdown 的相关资料。
+以下是一个 `GitHub Flavored Markdown` 的简单教程，只收录了和本 Wiki 编辑有关的部分内容。如果想要了解更多，请自行查找 GitHub Flavored Markdown 的相关资料。
 
 - 标题
     - 样例：
