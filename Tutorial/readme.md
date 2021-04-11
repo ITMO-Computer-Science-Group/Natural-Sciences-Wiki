@@ -302,7 +302,14 @@ $\LaTeX$ 是基于 `Tex` 的一个十分强大的文字排版语言，其内容�
     | 一般括号 | $(\frac{\frac{a}{b}}{c})$ | () |
     | 自适应括号 | $\left(\frac{\frac{a}{b}}{c}\right)$ | \left(\right) |
 
+- 三角函数
 
+    |名称|效果|源码|
+    |-|-|-|
+    | 正弦函数 |$\sin{x}$  | \sin{x} |
+    | 余弦函数 | $\cos{x}$ | \cos{x} |
+    | 正切函数 | $\tan{x}$ | \tan{x} |
+    | 余切函数 | $\cot{x}$ | \cot{x} |
 <!--
 
 【信息】Excel 08 + [range]
