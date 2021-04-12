@@ -3,11 +3,11 @@ nav:
     - 俄语:
       - 俄语语法: /Russian/Grammar for Russian.html
     - 物理: 
-      - 预科物理: /Physics/预科物理.Grammar.html
+      - 预科物理: /Physics/语言学习/预科物理.Grammar.html
     - 化学:
-      - 预科化学: /Chemistry/预科化学.Grammar.html
+      - 预科化学: /Chemistry/语言学习/预科化学.Grammar.html
     - 数学:
-      - 预科数学: /Math/预科数学.Grammar.html
+      - 预科数学: /Math/语言学习/预科数学.Grammar.html
   - 预科课程: 
     - 目录: /List/预科课程.html
     - 物理:
@@ -29,8 +29,8 @@ nav:
   - 软件工程:
     - 目录: /List/软件工程.html
     - Java: /Java/Java教材.html
-    - 离散数学: 
   - 友链: /friends.html
+  - 单词表: /Word.html
 
 
 
