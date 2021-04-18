@@ -1,36 +1,36 @@
 nav:
   - 语言学习:
     - 俄语:
-      - 俄语语法: /Russian/Grammar for Russian.html
+      - 俄语语法: Russian\Grammar for Russian.md
     - 物理: 
-      - 预科物理: /Physics/语言学习/预科物理.Grammar.html
+      - 预科物理: Physics\语言学习\预科物理.Grammar.md
     - 化学:
-      - 预科化学: /Chemistry/语言学习/预科化学.Grammar.html
+      - 预科化学: Chemistry\语言学习\预科化学.Grammar.md
     - 数学:
-      - 预科数学: /Math/语言学习/预科数学.Grammar.html
+      - 预科数学: Math\语言学习\预科数学.Grammar.md
   - 预科课程: 
-    - 目录: /List/预科课程.html
+    - 目录: List\预科课程.md
     - 物理:
-      - 预科物理课件: /Physics/预科物理课件.html
-      - 预科物理教材: /Physics/预科物理教材.html
-      - 热力学公式总结: /Physics/热力学公式总结.html
+      - 预科物理课件: Physics\预科物理课件.md
+      - 预科物理教材: Physics\预科物理教材.md
+      - 热力学公式总结: Physics\热力学公式总结.md
     - 化学:
-      - 普通化学: /Chemistry/普通化学.html
+      - 普通化学: Chemistry\普通化学.md
     - 数学:
-      - 预科数学: /Math/预科数学.html
-      - 高中数学: /Math/高中数学.html
+      - 预科数学: Math\预科数学.md
+      - 高中数学: Math\高中数学.md
     - 信息:
-      - 预科信息: /Information/预科信息.html
+      - 预科信息: Information\预科信息.md
     - 历史:
-      - 关于俄罗斯与俄罗斯人: /History/关于俄罗斯与俄罗斯人.html
-      - 在俄罗斯学习与生活: /History/在俄罗斯学习与生活.html
+      - 关于俄罗斯与俄罗斯人: History\关于俄罗斯与俄罗斯人.md
+      - 在俄罗斯学习与生活: History\在俄罗斯学习与生活.md
     - 工程制图:
-      - 工程制图: /Engineering%20graphics/工程制图.html
+      - 工程制图: Engineering%20graphics\工程制图.md
   - 软件工程:
-    - 目录: /List/软件工程.html
-    - Java: /Java/Java教材.html
-  - 友链: /friends.html
-  - 单词表: /Word.html
+    - 目录: List\软件工程.md
+    - Java: Java\Java教材.md
+  - 友链: friends.md
+  - 单词表: Word.md
 
 
 
@@ -50,14 +50,15 @@ theme:
   logo: /theme/icon.png
   favicon: /theme/favicon.ico
   features:
-    #- toc.integrate
+    - toc.integrate
+    - navigation.top
+    #- navigation.instant
     #- navigation.tabs
     #- navigation.tabs.sticky
     #- navigation.indexes
     #- navigation.expand
-    - navigation.sections
-    - navigation.top
-    - header.autohide
+    #- navigation.sections
+    #- header.autohide
   palette:
     primary: deep purple
 
