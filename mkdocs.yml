@@ -1,13 +1,25 @@
 nav:
   - 语言学习:
+    - 英语:
+      - 六级词汇: /English/English-level6.html
     - 俄语:
       - 俄语语法: /Russian/Grammar for Russian.html
     - 物理: 
+      - 物理单词: 
       - 预科物理: /Physics/语言学习/预科物理.Grammar.html
     - 化学:
+      - 化学单词: 
       - 预科化学: /Chemistry/语言学习/预科化学.Grammar.html
     - 数学:
+      - 数学单词: 
       - 预科数学: /Math/语言学习/预科数学.Grammar.html
+    - 信息:
+      - 信息单词: /Information/语言学习/预科信息.Word.html
+    - 历史:
+      - 历史单词: /History/语言学习/预科历史.Word.html
+    - 工程制图:
+      - 工程制图单词: Engineering%20graphics/语言学习/预科工程制图.Word.html
+    - 总单词表: /Russian/Russian Words.html
   - 预科课程: 
     - 目录: /List/预科课程.html
     - 物理:
@@ -30,7 +42,7 @@ nav:
     - 目录: /List/软件工程.html
     - Java: /Java/Java教材.html
   - 友链: /friends.html
-  - 单词表: /Word.html
+  
 
 
 
