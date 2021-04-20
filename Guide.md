@@ -84,11 +84,21 @@
 
 ### 2. git message 标准
 
-- 对于处于 `ICSG 任务系统` 中的任务提交，
-
-
-
-
+当您想要向仓库中提交您做出的更改时，git 会要求您填写 git message。git message 相当于是一条信息，用于说明本次提交做出的更改的具体详情，git message 一般由以下两部分组成：  
+- `Summary` - 必填字段，一般用于简要概括本次提交的文件操作
+- `Description` - 选填字段，一般用于详细说明本次修改的具体内容  
+  
+对于 git message 我们执行以下标准：
+- 对于处于 `ICSG 任务系统` 中的任务提交
+    - `Summary` 统一填写任务系统中对应的任务标题
+    - `Description` 统一填写任务系统中对应的任务详情
+- 对于其他的提交
+    - 对于文件的更新：`Summary` 一般填写 `update` 即可
+    - 如对一些操作进行区分，也可以选择填写：
+        - `upload <fileName>` (上传文件)
+        - `new <fileName>` (新建文件)
+        - `delete <fileName>` (删除文件)
+        - 等等
 
 ## 您需要了解哪些技术？
 
