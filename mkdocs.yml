@@ -1,5 +1,6 @@
 nav:
   - 语言学习:
+    - 单词: Word.md
     - 俄语:
       - 俄语语法: Russian\Grammar for Russian.md
     - 物理: 
@@ -9,7 +10,6 @@ nav:
     - 数学:
       - 预科数学: Math\语言学习\预科数学.Grammar.md
   - 预科课程: 
-    - 目录: List\预科课程.md
     - 物理:
       - 预科物理课件: Physics\预科物理课件.md
       - 预科物理教材: Physics\预科物理教材.md
@@ -25,12 +25,11 @@ nav:
       - 关于俄罗斯与俄罗斯人: History\关于俄罗斯与俄罗斯人.md
       - 在俄罗斯学习与生活: History\在俄罗斯学习与生活.md
     - 工程制图:
-      - 工程制图: Engineering%20graphics\工程制图.md
+      - 工程制图: Engineering graphics\工程制图.md
   - 软件工程:
-    - 目录: List\软件工程.md
     - Java: Java\Java教材.md
   - 友链: friends.md
-  - 单词表: Word.md
+  
 
 
 
