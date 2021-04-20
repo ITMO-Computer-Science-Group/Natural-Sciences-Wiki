@@ -291,10 +291,9 @@ $\LaTeX$ 是基于 `Tex` 的一个十分强大的文字排版语言，其内容�
     |-|-|-|
     | 分式 | $\frac{x}{y}$ | \frac{x}{y} |
     | 绝对值 | $\lvert a\rvert$ | \lvert a\rvert |
-    | 根号  | $\sqrt{x}$ | \sqrt{x} |
-    | 多次根 | $\sqrt[b]{a}$ | \sqrt[b]{a} |
-    | 多次方 | $a^{b}$ | a^{b} |
-    | 对数 | $\log_ab$ | \log_ab |
+    | 根号  | $\sqrt{x}$ <br> $\sqrt[b]{a}$ | \sqrt{x} <br> sqrt[b]{a} |
+    | 次方 | $a^{b}$ | a^{b} |
+    | 对数 | $\log_ab$ <br> $\lg{a}$ <br> $\ln{a}$ | \log_ab <br> \lg{a} <br> \ln{a} |
     | 积分  | $\int_{a}^{b}$ | \int_{a}^{b} |
     | 求和  | $\sum_{n=1}^{20}$ | \sum_{n=1}^{20} |
     | 极限  | $\underset{x\rightarrow\infty}{\lim}$ | \underset{x\rightarrow\infty}{\lim} |
@@ -320,8 +319,7 @@ $\LaTeX$ 是基于 `Tex` 的一个十分强大的文字排版语言，其内容�
     | 包含于 <br> 包含 | $\in$ <br> $\ni$ | \in <br> \ni |
     | 任取 | $\forall$ | \forall |
     | 存在 <br> 不存在 | $\exists$ <br> $\nexists$ | \exists <br> \nexists |
-    | 并集 | $\cup$ | \cup |
-    | 交集 | $\cap$ | \cap |
+    | 并集 <br> 交集 | $\cup$ <br> $\cap$ | \cup <cap> |
     | 补集 | $\complement$ | \complement |
 
 - 希腊字母
@@ -391,14 +389,6 @@ $\LaTeX$ 是基于 `Tex` 的一个十分强大的文字排版语言，其内容�
     | 余切函数 | $\cot{x}$ | \cot{x} |
 
 //log ln lg
-
-$$
-\begin{aligned}
-a&=b\\
-&=b\\
-&=c\\
-\end{aligned}
-$$
 
 <!--
 
