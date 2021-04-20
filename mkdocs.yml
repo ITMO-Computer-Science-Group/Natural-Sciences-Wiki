@@ -1,24 +1,14 @@
 nav:
   - 语言学习:
-    - 英语:
-      - 六级词汇: English\English-level6.md
+    - 单词: Word.md
     - 俄语:
       - 俄语语法: Russian\Grammar for Russian.md
     - 物理: 
-      - 物理单词: 
       - 预科物理: Physics\语言学习\预科物理.Grammar.md
     - 化学:
-      - 化学单词: 
       - 预科化学: Chemistry\语言学习\预科化学.Grammar.md
     - 数学:
-      - 数学单词: 
       - 预科数学: Math\语言学习\预科数学.Grammar.md
-    - 信息:
-      - 信息单词: Information\语言学习\预科信息.Word.md
-    - 历史:
-      - 历史单词: History\语言学习\预科历史.Word.md
-    - 工程制图:
-      - 工程制图单词: Engineering%20graphics\语言学习\预科工程制图.Word.md
   - 预科课程: 
     - 物理:
       - 预科物理课件: Physics\预科物理课件.md
