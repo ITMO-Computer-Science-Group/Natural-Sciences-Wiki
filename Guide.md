@@ -388,20 +388,6 @@ $\LaTeX$ 是基于 `Tex` 的一个十分强大的文字排版语言，其内容�
     | 正切函数 | $\tan{x}$ | \tan{x} |
     | 余切函数 | $\cot{x}$ | \cot{x} |
 
-//log ln lg
-
-<!--
-
-【信息】Excel 08 + [range]
-File: Excel_Task_0.8-2021-03-27.doc
-Range: all
-Target knowledge File：Information/预科信息.md
-target grammar file: ...
-
--->
-
-
-
 ## 内容生产规则：
 
 ### 1. 语言生产
