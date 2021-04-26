@@ -2591,4 +2591,4 @@
 | vengeance          | n. 报复； 报仇； 复仇                                                                                              |
 | waxy               | adj. 光滑的； 苍白的                                                                                              |
 | willingness        | n. 愿意， 情愿                                                                                                  |
-| wretch             | n. 不幸的人                                                                                                    |
+| wretch             | n. 不幸的人                                                                                                    |<!--2021年4月26日 封词库-->
