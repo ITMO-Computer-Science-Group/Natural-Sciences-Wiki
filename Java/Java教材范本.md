@@ -70,9 +70,9 @@
             - 概念：没有经过声明，直接在代码中插入数据值来使用的数据
             - 实际应用：我们来看一段 *用于计算每年的工作小时数* 的代码：
             ```Java
-            int total =  8 * 5 * 4 * 12;	// ПЛОХО
+            int total =  8 * 5 * 4 * 12;    // ПЛОХО
             final int HOURS = 8, DAYS = 5, WEEKS = 4, MONTHS = 12; // ...
-            int total = HOURS * DAYS * WEEKS * MONTHS;	// ХОРОШО
+            int total = HOURS * DAYS * WEEKS * MONTHS;    // ХОРОШО
             ```
             其中：
             - 第一行语句定义了一个 `total` 变量，直接使用了右边的未命名数据（8, 5, 4, 12）赋值，虽然这种做法在语法上是合法的，但是我们难以得知这些数据的意义和用途，因此这是一段不好的代码

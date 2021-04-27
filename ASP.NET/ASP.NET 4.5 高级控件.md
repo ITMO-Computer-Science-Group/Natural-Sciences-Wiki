@@ -109,13 +109,13 @@
         - HasControls：确定服务器控件是否包含任何子控件
 - 验证控件
     - 六种验证控件
-        验证类型	使用的控件	控件的作用
-        必需项	RequiredFieldValidator	验证某个控件的内容是否被改变
-        与某值的比较	CompareValidator	用于对两个值进行比较验证
-        范围检查	RangeValidator	用于验证某个值是否在要求的范围之内
-        模式匹配	RegularExpressionValidator	用于验证相关输入控件的值是否匹配正则表达式指定的模式
-        验证汇总	ValidationSummary	不执行验证，但与其他验证控件一起用于显示来自页面上所有验证控件的错误信息
-        自定义	CustomValidator	调用在服务器端编写的自定义验证函数
+        验证类型    使用的控件    控件的作用
+        必需项    RequiredFieldValidator    验证某个控件的内容是否被改变
+        与某值的比较    CompareValidator    用于对两个值进行比较验证
+        范围检查    RangeValidator    用于验证某个值是否在要求的范围之内
+        模式匹配    RegularExpressionValidator    用于验证相关输入控件的值是否匹配正则表达式指定的模式
+        验证汇总    ValidationSummary    不执行验证，但与其他验证控件一起用于显示来自页面上所有验证控件的错误信息
+        自定义    CustomValidator    调用在服务器端编写的自定义验证函数
     - RequireFieldValidator控件
         - 在链接到的控件失去焦点时，如果其初始属性值没有被改变，将会触发RequiredFieldValidator控件（用户名不能为空）
         - ControlToValidate属性：通过设置该属性为某控件的ID，来把验证控件绑定到需要验证的控件
