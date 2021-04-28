@@ -331,21 +331,21 @@ $\LaTeX$ 是基于 `Tex` 的一个十分强大的文字排版语言，其内容�
 
 - 希腊字母名称
 
-    |效果|源码|
-    |-|-|
-    | Α α    | Alpha  |
-    | Β β    | Beta   |
-    | Γ γ    | Gamma  |
-    | Δ δ    | Delta  |
-    | Λ λ    | Lambda |
-    | Μ μ    | Mu     |
-    | Η η    | Eta    |
-    | Θ θ    | Theta  |
-    | Ρ ρ    | Rho    |
-    | Σ σ    | Sigma  |
-    | Φ φ    | Phi    |
-    | Ω ω    | Omega  |
-    | Π π    | Pi     |
+    |大写|源码|小写|源码|
+    |-|-|-|-|
+    | $\Alpha$ | \Alpha | $\alpha$ | \alpha |
+    | $\Beta$ | \Beta | $\beta$ | \beta |
+    | $\Gamma$ | \Gamma | $\gamma$ | \gamma |
+    | $\Delta$ | \Delta | $\delta$ | \delta |
+    | $\Lambda$ | \Lambda | $\lambda$ | \lambda |
+    | $\Mu$ | \Mu | $\mu$ | \mu |
+    | $\Eta$| \Eta | $\eta$ | \eta |
+    | $\Theta$ | \Theta | $\theta$ | \theta |
+    | $\Rho$ | \Rho | $\rho$ | \rho |
+    | $\Sigma$ | \Sigma | $\sigma$ | \sigma |
+    | $\Phi$ <br> $\varPhi$ | \Phi <br> \varPhi | $\phi$ <br> $\varphi$ | \phi <br> \varphi |
+    | $\Omega$ | \Omega | $\omega$ | \omega |
+    | $\Pi$ | \Pi | $\pi$ | \pi |
 
 - 上下标
 
