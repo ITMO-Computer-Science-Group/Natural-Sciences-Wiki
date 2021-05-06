@@ -122,6 +122,8 @@ hide:
 ### 编外贡献者：
 >- `@桂小方`  
 >在群聊中为 ICSG 任务管理系统提供了想法
+>- `@`
+>提供了宝贵的工程制图相关资料
 
 ## 参与贡献这个 Wiki
 
@@ -148,7 +150,7 @@ hide:
 | 2021/3/14 | ICS-Wiki 正式建立，ICSG 组织委员会成立，[染樱 (Ran-ying)](https://github.com/Ran-ying) 任 ICSG 组织委员会总书记 |
 | 2021/3/15 | GitHub 仓库重构：废除 Common-Courses 仓库，Russian-Language-Studying, Preparatory-Courses, Specialized-Courses 仓库合并为 Natural-Sciences-Wiki 仓库 |
 | 2021/3/16 | [Ranzhu1](https://github.com/Ranzhu1) 加入组织 |
-| 2021/3/26 | [Yun-4439](https://github.com/Yun-4439) 加入组织；[托利亚 (Tolia-GH)](https://github.com/Tolia-GH)被任命为 ICSG 组织委员会委员 |
+| 2021/3/26 | [Yun-4439](https://github.com/Yun-4439) 加入组织；[托利亚 (Tolia-GH)](https://github.com/Tolia-GH) 被任命为 ICSG 组织委员会委员 |
 | 2021/3/28 | ICSG 任务管理系统建立并投入使用，ICSG-System 初步建立 |
 
 ## 价值观念
@@ -164,5 +166,5 @@ hide:
 
 ## 版权声明
 
-- 本组织所有非代码的文本内容遵循 [CC BY-NC-SA 3.0 许可协议](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)
+- 本组织所有非代码的文本内容遵循 [CC BY-NC-SA 3.0 License](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)
 - 本组织所有代码遵循 [MIT License](https://opensource.org/licenses/mit-license.php)
