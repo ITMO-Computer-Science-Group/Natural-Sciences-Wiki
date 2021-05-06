@@ -130,7 +130,7 @@ hide:
     - 如果您了解 `GitHub`，可以在 GitHub 上提出 [issue](https://github.com/ITMO-Computer-Science-Group/Natural-Sciences-Wiki/issues)
 - 想要编辑我们的内容？
     - 登录您的 `GitHub` 账号，点击 Wiki 页面右上角的修改按钮，在线编辑内容。
-- 更多详情请阅读我们的 [文档](Tutorial/README.md)
+- 更多详情请阅读我们的 [文档](Guide.md)
 
 ## 项目历程
 
