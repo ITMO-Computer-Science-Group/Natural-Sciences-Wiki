@@ -166,5 +166,5 @@ hide:
 
 ## 版权声明
 
-- 本组织所有非代码的文本内容遵循 [CC BY-NC-SA 3.0 License](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)
+- 本组织所有非代码的文本内容遵循 [CC BY-NC-SA 3.0 许可协议](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)
 - 本组织所有代码遵循 [MIT License](https://opensource.org/licenses/mit-license.php)
