@@ -64,6 +64,8 @@ theme:
 
 extra_javascript:
   - /mathjax/LaTeX.js
+extra_css:
+  - /theme/theme.css
 
 plugins:
   - search:
