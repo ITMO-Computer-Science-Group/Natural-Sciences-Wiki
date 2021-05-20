@@ -103,6 +103,21 @@ c = (a%5*3-b+a)*b%5+3;      //此时 c 是 4
 c = a%5*(3-(b+a)*b)%5+3;    //此时 c 是 3
 ```
 
+- 输入一个变量的值
+```Java
+public class operate{
+    //...
+    public static void main(String[] args) {
+        //...
+        Scanner sc = new Scanner(System.in);//定义扫描器 sc
+        int a = sc.nextInt();//使用扫描器 sc 的读取整数这个功能，并且赋值给 a
+        //...
+    }
+    //...
+}
+
+```
+
 - 输出一个变量的值
 
 ```Java
