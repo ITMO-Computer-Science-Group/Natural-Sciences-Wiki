@@ -105,7 +105,7 @@ c = a%5*(3-(b+a)*b)%5+3;    //此时 c 是 3
 
 - 输入一个变量的值
 ```Java
-impot java.utils.Scanner;//在文件的最开始导入 java.utils.Scanner 这个包，才能使用后面的读取功能
+import java.util.Scanner;//在文件的最开始导入 java.util.Scanner 这个包，才能使用后面的读取功能
 
 public class operate{
     //...
