@@ -17,7 +17,7 @@ public class App {        //主方法所在的类
 - 代码中可能出现的所有字符
     （建议自己打一下）
     ```
-    abcdefghijklmnopqrstuvwxyz?:;><,.'"{}()`+-*/!@$%^&|\
+    abcdefghijklmnopqrstuvwxyz?:;><,.'"{}()`+-*/!@$%^&|\[]
     ```
 - 注释
 
@@ -250,6 +250,13 @@ int b = 10;
         2. 判断 expr2 是否为真，若为真执行 for 的语句块，若为假则终止执行
         3. 执行 expr3
         4. 回到第二步
+   
+    ```Java
+    for(int i = 0; i <10; i++){
+        System.out.println(i*i-i+1);
+    }
+    ```
+- while 循环与 for 循环是等价的，可以相互转化。
 - 一元运算符
 
 ```Java
@@ -268,15 +275,77 @@ num = num - 1;
 //++num 和 num++ 的不同
 int ppnum = ++num;
 int numpp = num++
+
+//以下等价
+num = 0 + num;
+num = + num;
+num = num;
+
+//以下等价
+num = 0 - num;
+num = - num;
 ```
 - 循环控制语句
     - continue;
     - break;
+- 用于逻辑运算的运算符
+    - 逻辑与 &&
+        - 格式： 表达式1 && 表达式2
+        - 两个数都为真时，返回真
 
+        |       | true  | false |
+        |-------|-------|-------|
+        | true  | true  | false |
+        | false | false | false |
+
+    - 逻辑或 ||
+        - 格式：表达式1 || 表达式2
+        - 两个数都不为假时，返回真
+
+        |       | true  | false |
+        |-------|-------|-------|
+        | true  | true  | true  |
+        | false | true  | false |
+
+    - 逻辑非 !
+        - 格式：!表达式
+        - 返回一个与表达式相反的布尔值
+        
+        |   | true  | false |
+        |---|-------|-------|
+        | ! | false | true  |
+
+    ```Java
+    boolean a = true && true;
+    boolean b = true || false;
+    boolean c = !false
+    ```
 - 数组
     - 数组是把某种数据类型相同的值组合起来的一种高级形式
+    - 通过以下方式创建数组：
 
-```Java
-boolean[] b;
-int[] a;
-```
+    ```Java
+    boolean[] b;
+    int[] a;
+    ```
+
+    - 通过以下方式为数组赋值
+
+    ```Java
+    b = new int[3];
+    int[] b = {1, 2, 3};
+    int[] b = new int[3]{1, 2, 3};
+    ```
+
+    - 使用下标访问数组的元素
+        - 第一个元素的下标是 0
+
+    ```Java
+    int x = b[0];
+    ```
+
+    - 获得数组的长度
+
+    ```Java
+    int x = b.length;
+    ```
