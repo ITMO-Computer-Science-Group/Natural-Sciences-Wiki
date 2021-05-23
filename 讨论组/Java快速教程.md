@@ -17,7 +17,7 @@ public class App {        //主方法所在的类
 - 代码中可能出现的所有字符
     （建议自己打一下）
     ```
-    abcdefghijklmnopqrstuvwxyz?:;><,.'"{}()`+-*/!@$%^&|\
+    abcdefghijklmnopqrstuvwxyz?:;><,.'"{}()`+-*/!@$%^&|\[]
     ```
 - 注释
 
@@ -105,7 +105,7 @@ c = a%5*(3-(b+a)*b)%5+3;    //此时 c 是 3
 
 - 输入一个变量的值
 ```Java
-impot java.utils.Scanner;//在文件的最开始导入 java.utils.Scanner 这个包，才能使用后面的读取功能
+import java.util.Scanner;//在文件的最开始导入 java.util.Scanner 这个包，才能使用后面的读取功能
 
 public class operate{
     //...
@@ -127,3 +127,225 @@ int a;
 a = 10;
 System.out.println(a);  //这一行很关键！
 ```
+
+## 2021年5月21日
+
+- 将创建变量和变量赋值合并
+    - 以下两种方式是等价的
+```Java
+int a;
+a = 10;
+
+int b = 10;
+```
+
+- 用于比较的二元逻辑运算符
+    - 符号
+        - 大于 >
+        - 小于 <
+        - 等于 ==
+        - 大于等于 >=
+        - 小于等于 <=
+        - 不等于 !=
+    - 表达式的返回结果
+        - 真 true
+        - 假 false
+    - 示例代码
+    ```Java
+    int num = 10;
+    boolean a = 5 > 2;      // true
+    boolean b = 5 < 2;      // false
+    boolean c = 11 >= num;  // true
+    boolean d = 10 != num;  // false
+    boolean e = 3 <= num;   // true
+    boolean f = 7 == 7;     // true
+    boolean g = (3 > 5) == false;// true
+    ```
+
+- if 判断语句和变量的作用域
+    - if 语句用于程序的分支执行
+    - 单个的 if 语句
+        ```Java
+        boolean isNum;
+        if(3 > 5){
+            //如果 3 > 5 这个表达式的值是 true，则执行这个代码块里的代码
+            //如果 3 > 5 这个表达式的值是 false，则不执行
+        }
+        ```
+    - if-else 语句
+        ```Java
+        if(3 > 5){
+            //如果 3 > 5 这个表达式的值是 true，则执行这个代码块里的代码
+        }
+        else {
+            //如果 3 > 5 这个表达式的值是 false，则执行这个代码块里的代码
+        }
+
+        //以上语句等价于：
+        if(3 > 5){
+            //如果 3 > 5 这个表达式的值是 true，则执行这个代码块里的代码
+        }
+        if(3 <= 5){
+            //如果 3 <= 5 这个表达式的值是 true，则执行这个代码块里的代码
+        }
+        ```
+    - if-elseif-else
+        ```Java
+        if(3 > 5){
+            //如果 3 > 5 这个表达式的值是 true，则执行这个代码块里的代码
+        }
+        else if(4 == 5){
+            //如果 4 == 5 这个表达式的值是 true，则执行这个代码块里的代码
+        }
+        else{
+            //如果 3 > 5 和 4 == 5 这两个个表达式的值都是 false，则执行这个代码块里的代码
+        }
+        ```
+    - 分支的原则
+        - 必须以 if 开头
+        - if 后面可以跟 0 个或多个 elseif
+        - else 必须在最后面，并且只能有 0 ~ 1 个 else 语句
+    - 代码块
+        - 我们认为 {   } 包括其之间的内容是一个代码块
+        - if elseif else 语句后面的代码块，表示是 语句的表达式值为真时 要执行的一组语句
+    - 变量的作用域
+        - 被创建的变量只有在它的作用域中才可以被赋值或者参与运算
+        - 我们现阶段认为变量的作用域是他所在的代码块
+
+        ```Java
+        public class App {        //主方法所在的类
+            public static void main(String[] args) {//这里是主方法所在的代码块的开始
+                int a = 10;
+                {          //这里是一个奇怪的代码块的开始
+                    int b = 20;
+                    //在这里 a b 两个变量均可使用
+                }          //这里是一个奇怪的代码块的结束
+
+                //在这里只能使用 a 变量，b 变量只能在奇怪的代码块之间使用
+
+                if(1 > 0){
+                    int c = 10;
+                }
+                //无法使用 c 变量！
+            }//这里是主方法所在的代码块的结束
+        }
+        ```
+
+## 时间待定
+- while 循环
+    1. 判断 while 的表达式是否为真，若为假则终止执行
+    2. 执行代码块里的代码
+    3. 回到第一步
+
+    ```Java
+    num = 10;
+    while(num < 13){
+        num = num + 2;
+        System.out.println(num);
+    }
+    ```
+- for 循环
+    - for(expr1 ; expr2 ; expr3)
+        1. 首先在 for 循环前执行 expr1 的代码
+        2. 判断 expr2 是否为真，若为真执行 for 的语句块，若为假则终止执行
+        3. 执行 expr3
+        4. 回到第二步
+   
+    ```Java
+    for(int i = 0; i <10; i++){
+        System.out.println(i*i-i+1);
+    }
+    ```
+- while 循环与 for 循环是等价的，可以相互转化。
+- 一元运算符
+
+```Java
+int num = 10;
+
+//以下等价
+num++;
+++num;
+num = num + 1;
+
+//以下等价
+num--;
+--num;
+num = num - 1;
+
+//++num 和 num++ 的不同
+int ppnum = ++num;
+int numpp = num++
+
+//以下等价
+num = 0 + num;
+num = + num;
+num = num;
+
+//以下等价
+num = 0 - num;
+num = - num;
+```
+- 循环控制语句
+    - continue;
+    - break;
+- 用于逻辑运算的运算符
+    - 逻辑与 &&
+        - 格式： 表达式1 && 表达式2
+        - 两个数都为真时，返回真
+
+        |       | true  | false |
+        |-------|-------|-------|
+        | true  | true  | false |
+        | false | false | false |
+
+    - 逻辑或 ||
+        - 格式：表达式1 || 表达式2
+        - 两个数都不为假时，返回真
+
+        |       | true  | false |
+        |-------|-------|-------|
+        | true  | true  | true  |
+        | false | true  | false |
+
+    - 逻辑非 !
+        - 格式：!表达式
+        - 返回一个与表达式相反的布尔值
+        
+        |   | true  | false |
+        |---|-------|-------|
+        | ! | false | true  |
+
+    ```Java
+    boolean a = true && true;
+    boolean b = true || false;
+    boolean c = !false
+    ```
+- 数组
+    - 数组是把某种数据类型相同的值组合起来的一种高级形式
+    - 通过以下方式创建数组：
+
+    ```Java
+    boolean[] b;
+    int[] a;
+    ```
+
+    - 通过以下方式为数组赋值
+
+    ```Java
+    b = new int[3];
+    int[] b = {1, 2, 3};
+    int[] b = new int[3]{1, 2, 3};
+    ```
+
+    - 使用下标访问数组的元素
+        - 第一个元素的下标是 0
+
+    ```Java
+    int x = b[0];
+    ```
+
+    - 获得数组的长度
+
+    ```Java
+    int x = b.length;
+    ```
