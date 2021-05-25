@@ -231,7 +231,7 @@ int b = 10;
         }
         ```
 
-## 时间待定
+## 2021年5月25日
 - while 循环
     1. 判断 while 的表达式是否为真，若为假则终止执行
     2. 执行代码块里的代码
@@ -243,6 +243,7 @@ int b = 10;
         num = num + 2;
         System.out.println(num);
     }
+    //...
     ```
 - for 循环
     - for(expr1 ; expr2 ; expr3)
@@ -274,7 +275,7 @@ num = num - 1;
 
 //++num 和 num++ 的不同
 int ppnum = ++num;
-int numpp = num++
+int numpp = num++;
 
 //以下等价
 num = 0 + num;
@@ -300,7 +301,7 @@ num = - num;
 
     - 逻辑或 ||
         - 格式：表达式1 || 表达式2
-        - 两个数都不为假时，返回真
+        - 两个数不都为假时，返回真
 
         |       | true  | false |
         |-------|-------|-------|
@@ -318,7 +319,7 @@ num = - num;
     ```Java
     boolean a = true && true;
     boolean b = true || false;
-    boolean c = !false
+    boolean c = !false;
     ```
 - 数组
     - 数组是把某种数据类型相同的值组合起来的一种高级形式
@@ -334,7 +335,7 @@ num = - num;
     ```Java
     b = new int[3];
     int[] b = {1, 2, 3};
-    int[] b = new int[3]{1, 2, 3};
+    b[1] = 3;
     ```
 
     - 使用下标访问数组的元素
@@ -349,6 +350,9 @@ num = - num;
     ```Java
     int x = b.length;
     ```
+
+## 2021年5月26日
+
 - 方法
     - 方法的构成
         - `修饰符` `返回值类型` `方法名`(`形式参数`)
