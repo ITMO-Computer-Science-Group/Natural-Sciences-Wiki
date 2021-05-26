@@ -394,7 +394,7 @@ num = - num;
                 }
             }
 
-            Boolean isOdd(int num){
+            static Boolean isOdd(int num){
                 if(num%2 == 0){
                     return false;
                 }
