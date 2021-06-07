@@ -274,7 +274,30 @@ $\LaTeX$ 是基于 `Tex` 的一个十分强大的文字排版语言，其内容�
         $$
         ```
         - 说明：将要写的公式放在 `\begin{aligned}` 和 `\begin{aligned}` 语句之间，使用 `\\` 换行，用 `&` 来对齐公式
-
+    - 方程组
+        - 样例：
+        $$
+        x = 
+        \left\{ 
+        \begin{aligned}
+        d\\
+        c\\
+        e\\
+        \end{aligned} 
+        \right.
+        $$
+        - 源码：
+        ```LaTeX
+        x = 
+        \left\{ 
+        \begin{aligned}
+        d\\
+        c\\
+        e\\
+        \end{aligned} 
+        \right.
+        $$
+        ```
 - 公式中的空格分隔
     - 需要注意的是，在 $\LaTeX$ 源码中的空格不会在公式渲染后显示，一般来说，$\LaTeX$ 源码中的空格仅用于分割代码字段，例如这就是一个例子：
         - 源码：`$这是   一个    公  式$`
