@@ -349,6 +349,26 @@ $\LaTeX$ 是基于 `Tex` 的一个十分强大的文字排版语言，其内容�
     | 并集 <br> 交集 | $\cup$ <br> $\cap$ | \cup <cap> |
     | 补集 | $\complement$ | \complement |
 
+
+- 集合
+
+    |名称|效果|源码|
+    |-----------|-------------------|-----------------|
+    | 集合中的“\|”： | $\mid$            | \mid            |
+    | 属于：       | $\in$             | \in             |
+    | 不属于：      | $\not\in$         | \not\in         |
+    | A包含于B：    | $A\subset B$      | A\subset B      |
+    | A真包含于B：   | $A\subsetneqq B$  | A\subsetneqq B  |
+    | A包含B：     | $A\supset B$      | A\supset B      |
+    | A真包含B：    | $A\supsetneqq B$  | A\supsetneqq B  |
+    | A不包含于B：   | $ A\not\subset B$ |  A\not\subset B |
+    | A交B：      | $A\cap B$         | A\cap B         |
+    | A并B：      | $A\cup B$         | A\cup B         |
+    | A的闭包：     | $\overline{A}$    | \overline{A}    |
+    | A减去B:     | $A\setminus B$    | A\setminus B    |
+    | 实数集合：     | $\mathbb{R}$      | \mathbb{R}      |
+    | 空集：       | $\emptyset$       | \emptyset       |
+
 - 希腊字母
 
     |效果|源码|
