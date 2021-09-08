@@ -391,7 +391,7 @@ $\LaTeX$ 是基于 `Tex` 的一个十分强大的文字排版语言，其内容�
     | A的闭包：     | $\overline{A}$    | \overline{A}    |
     | A减去B:     | $A\setminus B$    | A\setminus B    |
     | 实数集合：     | $\mathbb{R}$      | \mathbb{R}      |
-    | 空集：       | $\emptyset$       | \emptyset       |
+    | 空集：       | $\varnothing$       | \varnothing       |
 
 - 逻辑运算符
     |名称|效果|源码|
