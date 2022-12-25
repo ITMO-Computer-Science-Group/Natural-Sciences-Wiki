@@ -252,7 +252,7 @@
         **那么常数 $A$ 就叫做函数 $\lim_{x \to x_0}f(x)$ 当 $x \rightarrow x_0$ 时的极限，记作**
         $$\lim_x \to x_0f(x)=A \qquad 或\ f(x)\rightarrow A（当 x \rightarrow x_0）$$
     - 几何理解：当 $f(x)$ 的极限为 $A$ 时，给定任意正数 $\varepsilon$，做两条平行于 $x$ 轴的直线 $y=A+\varepsilon$、$y=A-\varepsilon$，$x$ 的定义域 $(x,x_0-\delta) \cup (x_0,x_0+\delta)$ 此时任意 $x$ 对应的纵坐标 $f(x)$ 都满足不等式：$| f(x)< A | < \varepsilon$
-    ![](https://www.ranying.xyz/api/icsg/icsg-image/i/2021/07/06/isp4u7.png)
+    ![](../i/2021/07/06/isp4u7.png)
     - 单侧极限
         - 左侧极限：$x$ 仅从左侧趋近 $x_0$，(记作 $x \rightarrow x_0^-$)，定义则为 $x_0- \delta<x<x_0$，那么 $A$ 叫做函数 $f(x)$ 当 $x \rightarrow x_0$ 的左极限，记作：
         $$\lim_{x \to x_0^-}f(x)=A \qquad 或\ f(x_0^-)= A$$
@@ -370,7 +370,7 @@
     - 延伸：设函数 $f(x)$ 在点 $x_0$ 的某个左邻域内单调并且有界，则 $f(x)$ 在 $x_0$ 的左极限 $f(x_0^-)$ 必定存在
 - 重要极限1：作为准则 I' 的应用，我们讨论一个重要极限 $\lim_{x\to0}\frac{\sin x}{x}=1$
     - 设 $f(x)=\frac{\sin x}{x}$，首先注意到 $f(x)$ 对于一切 $x\neq 0$ 都有定义
-    ![](https://www.ranying.xyz/api/icsg/icsg-image/i/2021/07/15/srkfc8.png)
+    ![](../i/2021/07/15/srkfc8.png)
     - 在如图所示的四分之一单位圆中，设圆心角 $\angle AOB=x(0<x<\frac{\pi}{2})$，点 $A$ 处的切线与 $OB$ 的延长线交于 $D$，又 $BC\perp OA$，则
         $$\sin x=CB\quad x=\overset{\frown}{AB}\quad \tan x=AD$$
         因为
@@ -394,7 +394,7 @@
         $$\lim_{x\to0}\cos x=1$$
         由于 $\lim_{x\to0}\cos x=\lim_{x\to0}=1$，由不等式 $(1)$ 及准则I'，得
         $$\lim_{x\to0}\frac{\sin x}{x}=1$$
-        ![](https://www.ranying.xyz/api/icsg/icsg-image/i/2021/07/15/u20m38.png)
+        ![](../i/2021/07/15/u20m38.png)
 
 - 重要极限2：作为准则 II 的应用，我们讨论一个重要极限 $\lim_{x\to0}(1+\frac{1}{x})^x=e$
     - 设 $x_n=(1+\frac{1}{n})^n$，我们证明其单调增加且有界
@@ -508,7 +508,7 @@
             - 现在假定函数 $y=f(x)$ 在点 $x_0$ 的某一个邻域内有定义，当自变量 $x$ 在这邻域内从 $x_0$ 变到 $x_0+ \Delta x$ 时，函数值 $f(x)$ 相应地从 $f(x_0)$ 变到 $f(x_0+ \Delta x)$，因此函数值 $f(x)$ 的对应增量为
                 $$\Delta y=f(x_0+\Delta x)-f(x_0)$$
                 习惯上也称 $\Delta y$ 为函数的增量
-        ![](https://www.ranying.xyz/api/icsg/icsg-image/i/2021/07/10/rernd8.png)
+        ![](../i/2021/07/10/rernd8.png)
     - 连续性定义
         - 定义1：设函数 $y=f(x)$ 在点 $x_0$ 的某一邻域内有定义，如果 
             $$\lim_{\Delta x \to 0}\Delta y = \lim_{\Delta x \to 0}[f(x_0+\Delta x)-f(x_0)]=0$$
@@ -539,18 +539,18 @@
             - 例如正切函数 $y=\tan x$ 在 $x=\frac{\pi}{2}$ 没有定义，所以 $x=\frac{\pi}{2}$ 是函数 $y=\tan x$ 的间断点，又因：
                 $$\lim_{x \to \frac{\pi}{2}}\tan x=\infty$$
                 我们称 $x=\frac{\pi}{2}$ 为函数 $y=\tan x$ 的无穷间断点
-            - ![](https://www.ranying.xyz/api/icsg/icsg-image/i/2021/07/10/t00y6v.png)
+            - ![](../i/2021/07/10/t00y6v.png)
         - 振荡间断点
             - 例如函数 $y=\frac{1}{x}$ 在点 $x_0$ 没有定义，当 $x \to 0$ 时，函数值在 -1 与 +1 之间变动无限多次，所以点 $x = 0$ 称为函数 $\sin\frac{1}{x}$ 上的振荡间断点
-            - ![](https://www.ranying.xyz/api/icsg/icsg-image/i/2021/07/10/t00xgp.png) 
+            - ![](../i/2021/07/10/t00xgp.png) 
         - 可去间断点
             - 例如函数 $y=\frac{x^2-1}{x-1}$ 在点 $x=1$ 没有定义，所以函数在点 $x=1$ 为不连续，但：
                 $$\lim_{x \to 1}\frac{x^2-1}{x-1}=\lim_{x \to 1}(x+1)=2$$
                 如果补充定义：令 $x=1$ 时 $y=2$，那么所给函数在 $x=1$ 成为连续，所以 $x=l$ 称为该函数的可去间断点
-            - ![](https://www.ranying.xyz/api/icsg/icsg-image/i/2021/07/10/t00ztw.png)
+            - ![](../i/2021/07/10/t00ztw.png)
         - 跳跃间断点
             - 函数在间断点处存在左极限和右极限，但不相等，故在此间断点出函数不存在极限，函数值发生了跳跃，因此称这中间断电为跳跃间断点
-            - ![](https://www.ranying.xyz/api/icsg/icsg-image/i/2021/07/10/t0129u.png)
+            - ![](../i/2021/07/10/t0129u.png)
     - 分类
         - 第一类间断点：
             - 定义：如果 $x_0$ 是函数 $f(x)$ 的间断点，但左极限 $f(x_0^-)$ 及右极限 $f(x_0^+)$ 都存在，那么 $x_0$ 称为函数 $f(x)$ 的第一类间断点
@@ -760,7 +760,7 @@ $$(u+v)^{(n)}=\sum_{k=0}^n C^k_n u^{(n-k)}v^{(k)}$$
         $$\frac{{\rm d}y}{{\rm d}x}=f'(x)$$
         > 这就是说，函数的微分 ${\rm d}y$ 与自变量的微分 ${\rm d}x$ 之商等于该函数的导数。因此，导数也叫做“微商”
 - 微分的几何意义
-    ![](https://www.ranying.xyz/api/icsg/icsg-image/i/2021/07/20/qnxhzv.png)
+    ![](../i/2021/07/20/qnxhzv.png)
     - 在直角坐标系中，函数 $y=f(x)$ 的图形是一条曲线。对于某一固定的 $x_0$值，曲线上有一个确定点 $M(x_0,y_0)$，当自变量 $x$ 有微小增量 $\Delta x$ 时，就得到曲线上另一点 $N(x_0+\Delta x,y_0+\Delta y)$，由图可知：
         $$MQ=\Delta x\\QN=\Delta y$$
         过点 $M$ 作曲线的切线 $MT$，它的倾角为 $\alpha$，则
